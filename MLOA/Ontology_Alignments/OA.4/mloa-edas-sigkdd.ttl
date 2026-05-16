@@ -1,0 +1,43 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://edas#AcademiaOrganization> rdfs:subClassOf <http://sigkdd#Organizing_Committee_member> .
+
+<http://edas#Author> owl:equivalentClass <http://sigkdd#Author> .
+
+<http://edas#Conference> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://edas#ConferenceChair> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://edas#ConferenceDinner> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://edas#ConferenceEvent> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://edas#ConferenceSession> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://edas#ConferenceVenuePlace> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://edas#Document> owl:equivalentClass <http://sigkdd#Document> .
+
+<http://edas#GovernmentOrganization> rdfs:subClassOf <http://sigkdd#Organizing_Committee_member> .
+
+<http://edas#IndustryOrganization> rdfs:subClassOf <http://sigkdd#Organizing_Committee_member> .
+
+<http://edas#Paper> owl:equivalentClass <http://sigkdd#Paper> .
+
+<http://edas#PaperPresentation> owl:equivalentClass <http://sigkdd#presentation> .
+
+<http://edas#Person> owl:equivalentClass <http://sigkdd#Person> .
+
+<http://edas#Place> owl:equivalentClass <http://sigkdd#Place> .
+
+<http://edas#Presenter> rdfs:subClassOf <http://sigkdd#Author_of_paper_student> .
+
+<http://edas#Review> owl:equivalentClass <http://sigkdd#Review> .
+
+<http://edas#ReviewForm> owl:equivalentClass <http://sigkdd#Review> .
+
+<http://edas#ReviewRating> owl:equivalentClass <http://sigkdd#Review> .
+
+<http://edas#paperDueOn> owl:equivalentProperty <http://sigkdd#Paper> .
+

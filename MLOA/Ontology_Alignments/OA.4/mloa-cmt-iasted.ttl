@@ -1,0 +1,29 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://cmt#Author> owl:equivalentClass <http://iasted#Author> .
+
+<http://cmt#AuthorNotReviewer> rdfs:subClassOf <http://iasted#Author_cd_proceedings_included> .
+
+<http://cmt#Co-author> owl:equivalentClass <http://iasted#Author> .
+
+<http://cmt#Conference> owl:equivalentClass <http://iasted#Conference_days> .
+
+<http://cmt#ConferenceChair> owl:equivalentClass <http://iasted#Conference_hall> .
+
+<http://cmt#Document> owl:equivalentClass <http://iasted#Document> .
+
+<http://cmt#Meta-Reviewer> owl:equivalentClass <http://iasted#Reviewer> .
+
+<http://cmt#Person> owl:equivalentClass <http://iasted#Person> .
+
+<http://cmt#Review> owl:equivalentClass <http://iasted#Review> .
+
+<http://cmt#Reviewer> owl:equivalentClass <http://iasted#Reviewer> .
+
+<http://cmt#endReview> owl:equivalentProperty <http://iasted#Review> .
+
+<http://cmt#hasAuthor> owl:equivalentProperty <http://iasted#Author> .
+
+<http://cmt#writePaper> owl:equivalentProperty <http://iasted#write> .
+

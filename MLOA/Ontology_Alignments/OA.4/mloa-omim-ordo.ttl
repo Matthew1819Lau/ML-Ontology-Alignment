@@ -1,0 +1,705 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://omim.org/entry/100070> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_86> .
+
+<http://omim.org/entry/100100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2970> .
+
+<http://omim.org/entry/100200> rdfs:subClassOf <http://www.orpha.net/ORDO/Orphanet_440233> .
+
+<http://omim.org/entry/100300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_974> .
+
+<http://omim.org/entry/100700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_46627> .
+
+<http://omim.org/entry/100800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_15> .
+
+<http://omim.org/entry/100820> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_135> .
+
+<http://omim.org/entry/101200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_87> .
+
+<http://omim.org/entry/101400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_794> .
+
+<http://omim.org/entry/101600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_710> .
+
+<http://omim.org/entry/101800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_280651> .
+
+<http://omim.org/entry/101805> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1786> .
+
+<http://omim.org/entry/101850> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_307967> .
+
+<http://omim.org/entry/101900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79151> .
+
+<http://omim.org/entry/102150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_965> .
+
+<http://omim.org/entry/102200> rdfs:subClassOf <http://www.orpha.net/ORDO/Orphanet_99408> .
+
+<http://omim.org/entry/102370> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_969> .
+
+<http://omim.org/entry/102500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_955> .
+
+<http://omim.org/entry/102510> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_957> .
+
+<http://omim.org/entry/102520> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_971> .
+
+<http://omim.org/entry/102730> rdfs:subClassOf <http://www.orpha.net/ORDO/Orphanet_99138> .
+
+<http://omim.org/entry/102800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_45> .
+
+<http://omim.org/entry/103050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_46> .
+
+<http://omim.org/entry/103200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_36397> .
+
+<http://omim.org/entry/103285> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_978> .
+
+<http://omim.org/entry/103300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_989> .
+
+<http://omim.org/entry/103500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_998> .
+
+<http://omim.org/entry/103920> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1164> .
+
+<http://omim.org/entry/104100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1366> .
+
+<http://omim.org/entry/104200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88918> .
+
+<http://omim.org/entry/104290> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2131> .
+
+<http://omim.org/entry/104500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88661> .
+
+<http://omim.org/entry/104510> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88661> .
+
+<http://omim.org/entry/104530> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88661> .
+
+<http://omim.org/entry/104570> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1028> .
+
+<http://omim.org/entry/105250> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_137807> .
+
+<http://omim.org/entry/105400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_803> .
+
+<http://omim.org/entry/105580> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_424013> .
+
+<http://omim.org/entry/105600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_85> .
+
+<http://omim.org/entry/105650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_124> .
+
+<http://omim.org/entry/105805> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_99092> .
+
+<http://omim.org/entry/105830> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_72> .
+
+<http://omim.org/entry/105835> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_63442> .
+
+<http://omim.org/entry/106050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_95429> .
+
+<http://omim.org/entry/106190> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_468666> .
+
+<http://omim.org/entry/106220> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1069> .
+
+<http://omim.org/entry/106250> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1072> .
+
+<http://omim.org/entry/106260> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1071> .
+
+<http://omim.org/entry/106400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2206> .
+
+<http://omim.org/entry/106750> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_69125> .
+
+<http://omim.org/entry/107200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88620> .
+
+<http://omim.org/entry/107480> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_857> .
+
+<http://omim.org/entry/107600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1114> .
+
+<http://omim.org/entry/107970> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217656> .
+
+<http://omim.org/entry/108010> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_211266> .
+
+<http://omim.org/entry/108300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_828> .
+
+<http://omim.org/entry/108600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_316235> .
+
+<http://omim.org/entry/108650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_316235> .
+
+<http://omim.org/entry/108770> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1344> .
+
+<http://omim.org/entry/108900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1479> .
+
+<http://omim.org/entry/109000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_114> .
+
+<http://omim.org/entry/109100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79669> .
+
+<http://omim.org/entry/109150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_276238> .
+
+<http://omim.org/entry/109300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1228> .
+
+<http://omim.org/entry/110050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1252> .
+
+<http://omim.org/entry/110100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_126> .
+
+<http://omim.org/entry/110150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1259> .
+
+<http://omim.org/entry/112200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1059> .
+
+<http://omim.org/entry/112240> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2050> .
+
+<http://omim.org/entry/112300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_107> .
+
+<http://omim.org/entry/112310> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1263> .
+
+<http://omim.org/entry/112350> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3344> .
+
+<http://omim.org/entry/112410> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1276> .
+
+<http://omim.org/entry/112430> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2946> .
+
+<http://omim.org/entry/113400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1246> .
+
+<http://omim.org/entry/113477> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1292> .
+
+<http://omim.org/entry/113500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1293> .
+
+<http://omim.org/entry/113620> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1297> .
+
+<http://omim.org/entry/113650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_52429> .
+
+<http://omim.org/entry/113670> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_180176> .
+
+<http://omim.org/entry/113970> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_543> .
+
+<http://omim.org/entry/114000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1310> .
+
+<http://omim.org/entry/114140> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79141> .
+
+<http://omim.org/entry/114150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1319> .
+
+<http://omim.org/entry/114290> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_140> .
+
+<http://omim.org/entry/114550> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88673> .
+
+<http://omim.org/entry/114620> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_363705> .
+
+<http://omim.org/entry/115150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1340> .
+
+<http://omim.org/entry/115195> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217598> .
+
+<http://omim.org/entry/115196> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217598> .
+
+<http://omim.org/entry/115197> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217598> .
+
+<http://omim.org/entry/115210> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217635> .
+
+<http://omim.org/entry/115250> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_53296> .
+
+<http://omim.org/entry/115470> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_195> .
+
+<http://omim.org/entry/116860> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_46724> .
+
+<http://omim.org/entry/116920> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2968> .
+
+<http://omim.org/entry/117000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_597> .
+
+<http://omim.org/entry/117210> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217012> .
+
+<http://omim.org/entry/117360> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_208513> .
+
+<http://omim.org/entry/117550> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_821> .
+
+<http://omim.org/entry/117650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1393> .
+
+<http://omim.org/entry/118005> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_268950> .
+
+<http://omim.org/entry/118330> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1221> .
+
+<http://omim.org/entry/118400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_184> .
+
+<http://omim.org/entry/118450> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_52> .
+
+<http://omim.org/entry/118650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_93442> .
+
+<http://omim.org/entry/118651> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79346> .
+
+<http://omim.org/entry/118700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1429> .
+
+<http://omim.org/entry/118800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98810> .
+
+<http://omim.org/entry/118980> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_66630> .
+
+<http://omim.org/entry/119300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_888> .
+
+<http://omim.org/entry/119500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_294963> .
+
+<http://omim.org/entry/119530> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_141229> .
+
+<http://omim.org/entry/119540> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2014> .
+
+<http://omim.org/entry/119570> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2014> .
+
+<http://omim.org/entry/119580> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1997> .
+
+<http://omim.org/entry/119600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1452> .
+
+<http://omim.org/entry/119650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1453> .
+
+<http://omim.org/entry/119900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_217059> .
+
+<http://omim.org/entry/120000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1457> .
+
+<http://omim.org/entry/120040> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3233> .
+
+<http://omim.org/entry/120100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_576349> .
+
+<http://omim.org/entry/120300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98945> .
+
+<http://omim.org/entry/120330> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_678> .
+
+<http://omim.org/entry/120430> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98947> .
+
+<http://omim.org/entry/120435> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_144> .
+
+<http://omim.org/entry/120502> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_52429> .
+
+<http://omim.org/entry/120790> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_280133> .
+
+<http://omim.org/entry/120970> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1872> .
+
+<http://omim.org/entry/121050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_115> .
+
+<http://omim.org/entry/121270> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1551> .
+
+<http://omim.org/entry/121300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79273> .
+
+<http://omim.org/entry/121800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98967> .
+
+<http://omim.org/entry/121820> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98956> .
+
+<http://omim.org/entry/121850> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98970> .
+
+<http://omim.org/entry/121900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_34533> .
+
+<http://omim.org/entry/122000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98973> .
+
+<http://omim.org/entry/122100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98954> .
+
+<http://omim.org/entry/122200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98964> .
+
+<http://omim.org/entry/122400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_293381> .
+
+<http://omim.org/entry/122440> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3194> .
+
+<http://omim.org/entry/122455> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_458718> .
+
+<http://omim.org/entry/122470> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_199> .
+
+<http://omim.org/entry/122580> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2391> .
+
+<http://omim.org/entry/122780> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1508> .
+
+<http://omim.org/entry/122850> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_363705> .
+
+<http://omim.org/entry/122860> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1513> .
+
+<http://omim.org/entry/122880> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1529> .
+
+<http://omim.org/entry/123000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1522> .
+
+<http://omim.org/entry/123050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_157832> .
+
+<http://omim.org/entry/123100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1531> .
+
+<http://omim.org/entry/123150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1540> .
+
+<http://omim.org/entry/123400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_576370> .
+
+<http://omim.org/entry/123560> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1547> .
+
+<http://omim.org/entry/123700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_90348> .
+
+<http://omim.org/entry/123853> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2674> .
+
+<http://omim.org/entry/124200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_218> .
+
+<http://omim.org/entry/125230> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3241> .
+
+<http://omim.org/entry/125310> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_136> .
+
+<http://omim.org/entry/125350> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_412206> .
+
+<http://omim.org/entry/125370> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_101> .
+
+<http://omim.org/entry/125400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1653> .
+
+<http://omim.org/entry/125420> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1653> .
+
+<http://omim.org/entry/125440> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_99792> .
+
+<http://omim.org/entry/125490> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_49042> .
+
+<http://omim.org/entry/125500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_49042> .
+
+<http://omim.org/entry/125520> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3238> .
+
+<http://omim.org/entry/125595> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_86920> .
+
+<http://omim.org/entry/125630> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_493342> .
+
+<http://omim.org/entry/125640> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1660> .
+
+<http://omim.org/entry/126550> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_85192> .
+
+<http://omim.org/entry/126800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_233> .
+
+<http://omim.org/entry/127000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2333> .
+
+<http://omim.org/entry/127300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_240> .
+
+<http://omim.org/entry/127350> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1765> .
+
+<http://omim.org/entry/127400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_41> .
+
+<http://omim.org/entry/127500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_241> .
+
+<http://omim.org/entry/127550> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1775> .
+
+<http://omim.org/entry/127600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_352657> .
+
+<http://omim.org/entry/127800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1822> .
+
+<http://omim.org/entry/128230> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_255> .
+
+<http://omim.org/entry/128235> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_210571> .
+
+<http://omim.org/entry/129200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2466> .
+
+<http://omim.org/entry/129490> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1810> .
+
+<http://omim.org/entry/129510> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1818> .
+
+<http://omim.org/entry/129850> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1895> .
+
+<http://omim.org/entry/129900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1484> .
+
+<http://omim.org/entry/130000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_230839> .
+
+<http://omim.org/entry/130010> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_536532> .
+
+<http://omim.org/entry/130020> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_285> .
+
+<http://omim.org/entry/130050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_286> .
+
+<http://omim.org/entry/130060> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1899> .
+
+<http://omim.org/entry/130070> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_536471> .
+
+<http://omim.org/entry/130080> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_75392> .
+
+<http://omim.org/entry/130100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79148> .
+
+<http://omim.org/entry/130650> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_116> .
+
+<http://omim.org/entry/130710> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1928> .
+
+<http://omim.org/entry/130720> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2789> .
+
+<http://omim.org/entry/130900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_88661> .
+
+<http://omim.org/entry/131100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_276161> .
+
+<http://omim.org/entry/131300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1328> .
+
+<http://omim.org/entry/131750> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_231568> .
+
+<http://omim.org/entry/131760> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_304> .
+
+<http://omim.org/entry/131800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79400> .
+
+<http://omim.org/entry/131850> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79410> .
+
+<http://omim.org/entry/131900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_304> .
+
+<http://omim.org/entry/131950> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_304> .
+
+<http://omim.org/entry/131960> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79397> .
+
+<http://omim.org/entry/132090> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_25968> .
+
+<http://omim.org/entry/132400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_251> .
+
+<http://omim.org/entry/132600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_91414> .
+
+<http://omim.org/entry/132700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_211> .
+
+<http://omim.org/entry/132800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_65748> .
+
+<http://omim.org/entry/133000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_231031> .
+
+<http://omim.org/entry/133190> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1955> .
+
+<http://omim.org/entry/133200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_308166> .
+
+<http://omim.org/entry/133540> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_191> .
+
+<http://omim.org/entry/133780> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_891> .
+
+<http://omim.org/entry/133900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_141145> .
+
+<http://omim.org/entry/134200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2809> .
+
+<http://omim.org/entry/134300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_221083> .
+
+<http://omim.org/entry/134430> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_35909> .
+
+<http://omim.org/entry/134510> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_35909> .
+
+<http://omim.org/entry/134540> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_35909> .
+
+<http://omim.org/entry/134600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3337> .
+
+<http://omim.org/entry/134610> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_342> .
+
+<http://omim.org/entry/134750> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_47612> .
+
+<http://omim.org/entry/134780> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1988> .
+
+<http://omim.org/entry/135100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_337> .
+
+<http://omim.org/entry/135150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_122> .
+
+<http://omim.org/entry/135500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3473> .
+
+<http://omim.org/entry/135700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_45358> .
+
+<http://omim.org/entry/135750> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2378> .
+
+<http://omim.org/entry/135900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1465> .
+
+<http://omim.org/entry/136120> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79292> .
+
+<http://omim.org/entry/136140> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2044> .
+
+<http://omim.org/entry/136300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2047> .
+
+<http://omim.org/entry/136500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_398166> .
+
+<http://omim.org/entry/136680> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_347> .
+
+<http://omim.org/entry/136760> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_250> .
+
+<http://omim.org/entry/136800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98974> .
+
+<http://omim.org/entry/136880> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_227796> .
+
+<http://omim.org/entry/136900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_59181> .
+
+<http://omim.org/entry/137040> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_440987> .
+
+<http://omim.org/entry/137100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_169110> .
+
+<http://omim.org/entry/137200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_324442> .
+
+<http://omim.org/entry/137270> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2069> .
+
+<http://omim.org/entry/137360> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_85197> .
+
+<http://omim.org/entry/137763> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2085> .
+
+<http://omim.org/entry/137940> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_69735> .
+
+<http://omim.org/entry/138000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_83454> .
+
+<http://omim.org/entry/138770> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2090> .
+
+<http://omim.org/entry/138920> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2097> .
+
+<http://omim.org/entry/138930> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2097> .
+
+<http://omim.org/entry/139090> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_721> .
+
+<http://omim.org/entry/139210> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2588> .
+
+<http://omim.org/entry/139300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_178345> .
+
+<http://omim.org/entry/139393> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2103> .
+
+<http://omim.org/entry/140000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2438> .
+
+<http://omim.org/entry/140350> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2118> .
+
+<http://omim.org/entry/140450> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_228184> .
+
+<http://omim.org/entry/141300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1214> .
+
+<http://omim.org/entry/141350> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_141145> .
+
+<http://omim.org/entry/141405> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_221083> .
+
+<http://omim.org/entry/142340> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2140> .
+
+<http://omim.org/entry/142630> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_158025> .
+
+<http://omim.org/entry/142669> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2114> .
+
+<http://omim.org/entry/142900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_392> .
+
+<http://omim.org/entry/142945> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2162> .
+
+<http://omim.org/entry/142946> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2162> .
+
+<http://omim.org/entry/143000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_91413> .
+
+<http://omim.org/entry/143050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3265> .
+
+<http://omim.org/entry/143095> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_94068> .
+
+<http://omim.org/entry/143100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_399> .
+
+<http://omim.org/entry/143200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98668> .
+
+<http://omim.org/entry/143470> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_181428> .
+
+<http://omim.org/entry/143860> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_542657> .
+
+<http://omim.org/entry/144150> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_409> .
+
+<http://omim.org/entry/144190> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1336> .
+
+<http://omim.org/entry/144200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2199> .
+
+<http://omim.org/entry/144700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_319298> .
+
+<http://omim.org/entry/144755> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_443098> .
+
+<http://omim.org/entry/144800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_443098> .
+
+<http://omim.org/entry/145000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_181408> .
+
+<http://omim.org/entry/145001> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_99880> .
+
+<http://omim.org/entry/145300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_31740> .
+
+<http://omim.org/entry/145410> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2745> .
+
+<http://omim.org/entry/145700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2222> .
+
+<http://omim.org/entry/145980> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_93372> .
+
+<http://omim.org/entry/145981> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_101049> .
+
+<http://omim.org/entry/146000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_429> .
+
+<http://omim.org/entry/146200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2238> .
+
+<http://omim.org/entry/146255> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2237> .
+
+<http://omim.org/entry/146300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_247676> .
+
+<http://omim.org/entry/146500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_102> .
+
+<http://omim.org/entry/146510> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_672> .
+
+<http://omim.org/entry/146520> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_55654> .
+
+<http://omim.org/entry/146550> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_55654> .
+
+<http://omim.org/entry/146580> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_206428> .
+
+<http://omim.org/entry/146590> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79503> .
+
+<http://omim.org/entry/146700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_79354> .
+
+<http://omim.org/entry/147251> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2287> .
+
+<http://omim.org/entry/147421> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_611> .
+
+<http://omim.org/entry/147430> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_560> .
+
+<http://omim.org/entry/147750> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2307> .
+
+<http://omim.org/entry/147770> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2316> .
+
+<http://omim.org/entry/147791> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2308> .
+
+<http://omim.org/entry/147800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_916> .
+
+<http://omim.org/entry/147920> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2322> .
+
+<http://omim.org/entry/148050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2332> .
+
+<http://omim.org/entry/148370> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_50943> .
+
+<http://omim.org/entry/148520> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_86919> .
+
+<http://omim.org/entry/148600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_307967> .
+
+<http://omim.org/entry/148730> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2200> .
+
+<http://omim.org/entry/148820> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_3440> .
+
+<http://omim.org/entry/148840> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_33543> .
+
+<http://omim.org/entry/149200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_111> .
+
+<http://omim.org/entry/149400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_306773> .
+
+<http://omim.org/entry/149730> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2363> .
+
+<http://omim.org/entry/150230> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_324764> .
+
+<http://omim.org/entry/150250> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_503> .
+
+<http://omim.org/entry/150260> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2808> .
+
+<http://omim.org/entry/150270> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2808> .
+
+<http://omim.org/entry/150600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2380> .
+
+<http://omim.org/entry/150800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_523> .
+
+<http://omim.org/entry/151050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2658> .
+
+<http://omim.org/entry/151380> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_517> .
+
+<http://omim.org/entry/151400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_67038> .
+
+<http://omim.org/entry/151623> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_524> .
+
+<http://omim.org/entry/151630> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2699> .
+
+<http://omim.org/entry/151660> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98306> .
+
+<http://omim.org/entry/151800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2398> .
+
+<http://omim.org/entry/152700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_536> .
+
+<http://omim.org/entry/152800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_36204> .
+
+<http://omim.org/entry/152900> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_86914> .
+
+<http://omim.org/entry/153100> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2415> .
+
+<http://omim.org/entry/153200> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_2415> .
+
+<http://omim.org/entry/153300> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_662> .
+
+<http://omim.org/entry/153400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_33001> .
+
+<http://omim.org/entry/153630> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_156207> .
+
+<http://omim.org/entry/153700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1243> .
+
+<http://omim.org/entry/153840> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1243> .
+
+<http://omim.org/entry/153870> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_791> .
+
+<http://omim.org/entry/154400> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_364574> .
+
+<http://omim.org/entry/154500> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_861> .
+
+<http://omim.org/entry/154600> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_98951> .
+
+<http://omim.org/entry/154700> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_558> .
+
+<http://omim.org/entry/154780> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_560> .
+
+<http://omim.org/entry/154800> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_66646> .
+
+<http://omim.org/entry/155000> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1794> .
+
+<http://omim.org/entry/155050> owl:equivalentClass <http://www.orpha.net/ORDO/Orphanet_1248> .
+

@@ -1,0 +1,1811 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://snomed.info/id/10020007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65264> .
+
+<http://snomed.info/id/1002243003> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72900> .
+
+<http://snomed.info/id/1003716000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16570> .
+
+<http://snomed.info/id/1003717009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16570> .
+
+<http://snomed.info/id/1003719007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16354> .
+
+<http://snomed.info/id/10099000> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47578> .
+
+<http://snomed.info/id/1010205001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126712> .
+
+<http://snomed.info/id/1010435006> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2315> .
+
+<http://snomed.info/id/1010553003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142949> .
+
+<http://snomed.info/id/1010558007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87337> .
+
+<http://snomed.info/id/1010559004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84099> .
+
+<http://snomed.info/id/1012961000168107> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C170127> .
+
+<http://snomed.info/id/10133003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65357> .
+
+<http://snomed.info/id/10174003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C773> .
+
+<http://snomed.info/id/10192006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C782> .
+
+<http://snomed.info/id/10202007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121971> .
+
+<http://snomed.info/id/102259006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71965> .
+
+<http://snomed.info/id/102640000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166836> .
+
+<http://snomed.info/id/102646006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63655> .
+
+<http://snomed.info/id/102649004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61782> .
+
+<http://snomed.info/id/102705009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68391> .
+
+<http://snomed.info/id/102706005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68388> .
+
+<http://snomed.info/id/102711007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61911> .
+
+<http://snomed.info/id/102717006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67038> .
+
+<http://snomed.info/id/102718001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68392> .
+
+<http://snomed.info/id/102719009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68421> .
+
+<http://snomed.info/id/102761003> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C812> .
+
+<http://snomed.info/id/103028007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71762> .
+
+<http://snomed.info/id/10312003> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C770> .
+
+<http://snomed.info/id/10313008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84052> .
+
+<http://snomed.info/id/10333007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77344> .
+
+<http://snomed.info/id/10377000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62075> .
+
+<http://snomed.info/id/1039008> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C195> .
+
+<http://snomed.info/id/10424009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47594> .
+
+<http://snomed.info/id/1052201004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96432> .
+
+<http://snomed.info/id/1052202006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96432> .
+
+<http://snomed.info/id/10534002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C136413> .
+
+<http://snomed.info/id/1055273006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1821> .
+
+<http://snomed.info/id/1055274000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1821> .
+
+<http://snomed.info/id/105590001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45306> .
+
+<http://snomed.info/id/105606008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12754> .
+
+<http://snomed.info/id/105897007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106131> .
+
+<http://snomed.info/id/105899005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106128> .
+
+<http://snomed.info/id/105908007> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C261> .
+
+<http://snomed.info/id/105918002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47795> .
+
+<http://snomed.info/id/10595003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47696> .
+
+<http://snomed.info/id/105969002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26729> .
+
+<http://snomed.info/id/106063007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35552> .
+
+<http://snomed.info/id/106077005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36281> .
+
+<http://snomed.info/id/106098005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36286> .
+
+<http://snomed.info/id/106194009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18466> .
+
+<http://snomed.info/id/10669005> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2120> .
+
+<http://snomed.info/id/107737002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12754> .
+
+<http://snomed.info/id/107739004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12754> .
+
+<http://snomed.info/id/107837009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12686> .
+
+<http://snomed.info/id/10784006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29710> .
+
+<http://snomed.info/id/107878006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12907> .
+
+<http://snomed.info/id/107983004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12705> .
+
+<http://snomed.info/id/107985006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12705> .
+
+<http://snomed.info/id/108375002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47583> .
+
+<http://snomed.info/id/108376001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47702> .
+
+<http://snomed.info/id/108377005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65374> .
+
+<http://snomed.info/id/108378000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87359> .
+
+<http://snomed.info/id/108383008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47700> .
+
+<http://snomed.info/id/108386000> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29416> .
+
+<http://snomed.info/id/108391004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47699> .
+
+<http://snomed.info/id/108404000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47755> .
+
+<http://snomed.info/id/108405004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47794> .
+
+<http://snomed.info/id/108409005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47633> .
+
+<http://snomed.info/id/108412008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47708> .
+
+<http://snomed.info/id/108415005> rdfs:subClassOf <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C867> .
+
+<http://snomed.info/id/108417002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94726> .
+
+<http://snomed.info/id/108419004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48007> .
+
+<http://snomed.info/id/108422002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1153> .
+
+<http://snomed.info/id/108425000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1353> .
+
+<http://snomed.info/id/108434005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29540> .
+
+<http://snomed.info/id/108436007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29283> .
+
+<http://snomed.info/id/108447000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66169> .
+
+<http://snomed.info/id/108450002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47709> .
+
+<http://snomed.info/id/108453000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47451> .
+
+<http://snomed.info/id/108456008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66393> .
+
+<http://snomed.info/id/108459001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65472> .
+
+<http://snomed.info/id/108462003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47760> .
+
+<http://snomed.info/id/108467009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47714> .
+
+<http://snomed.info/id/108469007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47665> .
+
+<http://snomed.info/id/108474004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47710> .
+
+<http://snomed.info/id/108481006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29263> .
+
+<http://snomed.info/id/108482004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26670> .
+
+<http://snomed.info/id/108489008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47626> .
+
+<http://snomed.info/id/108492007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47561> .
+
+<http://snomed.info/id/108495009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47742> .
+
+<http://snomed.info/id/108500007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C652> .
+
+<http://snomed.info/id/108501006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47692> .
+
+<http://snomed.info/id/108505002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29508> .
+
+<http://snomed.info/id/108513001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61798> .
+
+<http://snomed.info/id/108515008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47983> .
+
+<http://snomed.info/id/108518005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29307> .
+
+<http://snomed.info/id/108520008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65271> .
+
+<http://snomed.info/id/108521007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65272> .
+
+<http://snomed.info/id/108527006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29840> .
+
+<http://snomed.info/id/108531000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47412> .
+
+<http://snomed.info/id/108540001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47620> .
+
+<http://snomed.info/id/108554009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47550> .
+
+<http://snomed.info/id/108557002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29005> .
+
+<http://snomed.info/id/108560009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29486> .
+
+<http://snomed.info/id/108567007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29267> .
+
+<http://snomed.info/id/108570006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47542> .
+
+<http://snomed.info/id/108573008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28862> .
+
+<http://snomed.info/id/108582002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29165> .
+
+<http://snomed.info/id/108590002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61759> .
+
+<http://snomed.info/id/108591003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47531> .
+
+<http://snomed.info/id/108594006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47514> .
+
+<http://snomed.info/id/108597004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28919> .
+
+<http://snomed.info/id/108601004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28837> .
+
+<http://snomed.info/id/108606009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61935> .
+
+<http://snomed.info/id/108608005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75928> .
+
+<http://snomed.info/id/108609002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76540> .
+
+<http://snomed.info/id/108612004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47675> .
+
+<http://snomed.info/id/108616001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98166> .
+
+<http://snomed.info/id/108617005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26667> .
+
+<http://snomed.info/id/108620002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47625> .
+
+<http://snomed.info/id/108629001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47635> .
+
+<http://snomed.info/id/108641008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80989> .
+
+<http://snomed.info/id/108646003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47408> .
+
+<http://snomed.info/id/108653007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29050> .
+
+<http://snomed.info/id/108656004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28920> .
+
+<http://snomed.info/id/108660001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65851> .
+
+<http://snomed.info/id/108661002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29702> .
+
+<http://snomed.info/id/108665006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29723> .
+
+<http://snomed.info/id/108671000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66183> .
+
+<http://snomed.info/id/108674008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66254> .
+
+<http://snomed.info/id/108682008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65839> .
+
+<http://snomed.info/id/108696002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1662> .
+
+<http://snomed.info/id/108701009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1602> .
+
+<http://snomed.info/id/108707008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1624> .
+
+<http://snomed.info/id/108709006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1589> .
+
+<http://snomed.info/id/108710001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65366> .
+
+<http://snomed.info/id/108713004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61928> .
+
+<http://snomed.info/id/108716007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1579> .
+
+<http://snomed.info/id/108745009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1766> .
+
+<http://snomed.info/id/108755008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65805> .
+
+<http://snomed.info/id/108765002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1102> .
+
+<http://snomed.info/id/108769008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C480> .
+
+<http://snomed.info/id/108771008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1374> .
+
+<http://snomed.info/id/108775004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1740> .
+
+<http://snomed.info/id/108780008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1748> .
+
+<http://snomed.info/id/108781007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2828> .
+
+<http://snomed.info/id/108787006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1594> .
+
+<http://snomed.info/id/108788001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1587> .
+
+<http://snomed.info/id/108794009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1395> .
+
+<http://snomed.info/id/108798007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C30136> .
+
+<http://snomed.info/id/108807002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20401> .
+
+<http://snomed.info/id/108814000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1200> .
+
+<http://snomed.info/id/108817007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1420> .
+
+<http://snomed.info/id/108825009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1333> .
+
+<http://snomed.info/id/108842003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47469> .
+
+<http://snomed.info/id/108843008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61867> .
+
+<http://snomed.info/id/108847009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61744> .
+
+<http://snomed.info/id/108849007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66576> .
+
+<http://snomed.info/id/108861004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29160> .
+
+<http://snomed.info/id/108864007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47582> .
+
+<http://snomed.info/id/108867000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29467> .
+
+<http://snomed.info/id/108869002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61770> .
+
+<http://snomed.info/id/108890005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82623> .
+
+<http://snomed.info/id/108895000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47974> .
+
+<http://snomed.info/id/108897008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47395> .
+
+<http://snomed.info/id/108921001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47733> .
+
+<http://snomed.info/id/108924009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47426> .
+
+<http://snomed.info/id/108927002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29492> .
+
+<http://snomed.info/id/108930009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C142975> .
+
+<http://snomed.info/id/108933006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C701> .
+
+<http://snomed.info/id/108934000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1322> .
+
+<http://snomed.info/id/108946001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38693> .
+
+<http://snomed.info/id/108950008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65361> .
+
+<http://snomed.info/id/108951007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47720> .
+
+<http://snomed.info/id/108959009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73539> .
+
+<http://snomed.info/id/108967001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1492> .
+
+<http://snomed.info/id/108968006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1303> .
+
+<http://snomed.info/id/108977004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28826> .
+
+<http://snomed.info/id/108983001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75769> .
+
+<http://snomed.info/id/108987000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75767> .
+
+<http://snomed.info/id/108990006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90877> .
+
+<http://snomed.info/id/109003006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90853> .
+
+<http://snomed.info/id/109024001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C169901> .
+
+<http://snomed.info/id/109029006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1518> .
+
+<http://snomed.info/id/109030001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1821> .
+
+<http://snomed.info/id/109046009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61613> .
+
+<http://snomed.info/id/109047000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1144> .
+
+<http://snomed.info/id/109049002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74270> .
+
+<http://snomed.info/id/109050002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77424> .
+
+<http://snomed.info/id/109053000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2402> .
+
+<http://snomed.info/id/109058009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47433> .
+
+<http://snomed.info/id/109064002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65865> .
+
+<http://snomed.info/id/109066000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1819> .
+
+<http://snomed.info/id/109070008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1067> .
+
+<http://snomed.info/id/109071007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61847> .
+
+<http://snomed.info/id/109072000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C139651> .
+
+<http://snomed.info/id/109083009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29251> .
+
+<http://snomed.info/id/109092007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76022> .
+
+<http://snomed.info/id/109098006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61855> .
+
+<http://snomed.info/id/1091008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16354> .
+
+<http://snomed.info/id/109103008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61987> .
+
+<http://snomed.info/id/109104002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61953> .
+
+<http://snomed.info/id/109106000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47758> .
+
+<http://snomed.info/id/109111003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47467> .
+
+<http://snomed.info/id/109116008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1755> .
+
+<http://snomed.info/id/109117004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C946> .
+
+<http://snomed.info/id/109137000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1321> .
+
+<http://snomed.info/id/109194005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78130> .
+
+<http://snomed.info/id/109196007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47607> .
+
+<http://snomed.info/id/109198008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66588> .
+
+<http://snomed.info/id/109205007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47463> .
+
+<http://snomed.info/id/109207004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65238> .
+
+<http://snomed.info/id/109232002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81131> .
+
+<http://snomed.info/id/109233007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47744> .
+
+<http://snomed.info/id/10987005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17322> .
+
+<http://snomed.info/id/111039007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84248> .
+
+<http://snomed.info/id/111067003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29883> .
+
+<http://snomed.info/id/111089004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29264> .
+
+<http://snomed.info/id/111091007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29388> .
+
+<http://snomed.info/id/111099009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80922> .
+
+<http://snomed.info/id/111100001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77036> .
+
+<http://snomed.info/id/111115000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80991> .
+
+<http://snomed.info/id/111120000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C273> .
+
+<http://snomed.info/id/111121001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76415> .
+
+<http://snomed.info/id/111123003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47629> .
+
+<http://snomed.info/id/111124009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76526> .
+
+<http://snomed.info/id/111125005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65726> .
+
+<http://snomed.info/id/111126006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61758> .
+
+<http://snomed.info/id/111131008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61968> .
+
+<http://snomed.info/id/111133006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81413> .
+
+<http://snomed.info/id/111135004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84046> .
+
+<http://snomed.info/id/111136003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28136> .
+
+<http://snomed.info/id/111143009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73899> .
+
+<http://snomed.info/id/111151007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2360> .
+
+<http://snomed.info/id/111235007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107377> .
+
+<http://snomed.info/id/11136004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75098> .
+
+<http://snomed.info/id/11170003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76737> .
+
+<http://snomed.info/id/1119307002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62027> .
+
+<http://snomed.info/id/1119308007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47666> .
+
+<http://snomed.info/id/1119471001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1821> .
+
+<http://snomed.info/id/111998003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68329> .
+
+<http://snomed.info/id/112000000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29596> .
+
+<http://snomed.info/id/112113009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2289> .
+
+<http://snomed.info/id/112133008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13806> .
+
+<http://snomed.info/id/11257001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1916> .
+
+<http://snomed.info/id/11345007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47768> .
+
+<http://snomed.info/id/11370007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76414> .
+
+<http://snomed.info/id/1137365008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1829> .
+
+<http://snomed.info/id/1137368005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C170137> .
+
+<http://snomed.info/id/1137662004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166521> .
+
+<http://snomed.info/id/1142211002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91038> .
+
+<http://snomed.info/id/1142214005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1202> .
+
+<http://snomed.info/id/1142218008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1402> .
+
+<http://snomed.info/id/1142220006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65251> .
+
+<http://snomed.info/id/1142221005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75104> .
+
+<http://snomed.info/id/11430001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94727> .
+
+<http://snomed.info/id/1144259001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75104> .
+
+<http://snomed.info/id/1144477009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C114498> .
+
+<http://snomed.info/id/1144607003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C169808> .
+
+<http://snomed.info/id/1144608008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C171869> .
+
+<http://snomed.info/id/1144610005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74077> .
+
+<http://snomed.info/id/1145127006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C169820> .
+
+<http://snomed.info/id/1145150000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152862> .
+
+<http://snomed.info/id/11473005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47769> .
+
+<http://snomed.info/id/1148537007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88314> .
+
+<http://snomed.info/id/1148549008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C171761> .
+
+<http://snomed.info/id/1148656009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104413> .
+
+<http://snomed.info/id/1148712004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152795> .
+
+<http://snomed.info/id/1148829005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75214> .
+
+<http://snomed.info/id/1149151008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152902> .
+
+<http://snomed.info/id/1149152001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123281> .
+
+<http://snomed.info/id/1149377005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152872> .
+
+<http://snomed.info/id/1149378000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C175065> .
+
+<http://snomed.info/id/1149379008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107680> .
+
+<http://snomed.info/id/1149418007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82220> .
+
+<http://snomed.info/id/1149423007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81566> .
+
+<http://snomed.info/id/1149428003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152112> .
+
+<http://snomed.info/id/1149432009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73823> .
+
+<http://snomed.info/id/1149496005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61987> .
+
+<http://snomed.info/id/11496005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174854> .
+
+<http://snomed.info/id/11504003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47507> .
+
+<http://snomed.info/id/11525003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90991> .
+
+<http://snomed.info/id/11526002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76513> .
+
+<http://snomed.info/id/115308005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C584> .
+
+<http://snomed.info/id/1153514005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28872> .
+
+<http://snomed.info/id/1153515006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28872> .
+
+<http://snomed.info/id/1153618003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C175065> .
+
+<http://snomed.info/id/115465005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82599> .
+
+<http://snomed.info/id/115532004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65972> .
+
+<http://snomed.info/id/115535002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C437> .
+
+<http://snomed.info/id/115557009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C171701> .
+
+<http://snomed.info/id/1155774000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166875> .
+
+<http://snomed.info/id/1155862006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152785> .
+
+<http://snomed.info/id/115589000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61757> .
+
+<http://snomed.info/id/1155903004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29508> .
+
+<http://snomed.info/id/1155971003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C171723> .
+
+<http://snomed.info/id/1156059001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29539> .
+
+<http://snomed.info/id/1156060006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29539> .
+
+<http://snomed.info/id/1156090004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166981> .
+
+<http://snomed.info/id/1156141001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76590> .
+
+<http://snomed.info/id/115620009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70941> .
+
+<http://snomed.info/id/1156222009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1268> .
+
+<http://snomed.info/id/1156223004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90612> .
+
+<http://snomed.info/id/1156227003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166969> .
+
+<http://snomed.info/id/1156228008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C171654> .
+
+<http://snomed.info/id/1156229000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83571> .
+
+<http://snomed.info/id/1156230005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83524> .
+
+<http://snomed.info/id/1156231009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82265> .
+
+<http://snomed.info/id/1156232002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166882> .
+
+<http://snomed.info/id/1156241007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84023> .
+
+<http://snomed.info/id/1156664003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45494> .
+
+<http://snomed.info/id/1156730006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17295> .
+
+<http://snomed.info/id/1156731005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17295> .
+
+<http://snomed.info/id/1156916009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87446> .
+
+<http://snomed.info/id/1157013009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C638> .
+
+<http://snomed.info/id/1157189002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18469> .
+
+<http://snomed.info/id/1157270009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65995> .
+
+<http://snomed.info/id/1157288001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87685> .
+
+<http://snomed.info/id/116066006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152508> .
+
+<http://snomed.info/id/116081000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1728> .
+
+<http://snomed.info/id/116086005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1574> .
+
+<http://snomed.info/id/116087001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1051> .
+
+<http://snomed.info/id/116089003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2388> .
+
+<http://snomed.info/id/116090007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74196> .
+
+<http://snomed.info/id/116096001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2583> .
+
+<http://snomed.info/id/116097005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29367> .
+
+<http://snomed.info/id/116098000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47579> .
+
+<http://snomed.info/id/116101001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2092> .
+
+<http://snomed.info/id/116102008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61774> .
+
+<http://snomed.info/id/116106006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66509> .
+
+<http://snomed.info/id/116107002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47499> .
+
+<http://snomed.info/id/116108007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C474> .
+
+<http://snomed.info/id/116112001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47654> .
+
+<http://snomed.info/id/116113006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29305> .
+
+<http://snomed.info/id/116126005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76081> .
+
+<http://snomed.info/id/116129003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47592> .
+
+<http://snomed.info/id/116130008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77274> .
+
+<http://snomed.info/id/116178008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106515> .
+
+<http://snomed.info/id/116181003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21045> .
+
+<http://snomed.info/id/116187004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17123> .
+
+<http://snomed.info/id/116189001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C783> .
+
+<http://snomed.info/id/11622005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63945> .
+
+<http://snomed.info/id/116257004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68471> .
+
+<http://snomed.info/id/116259001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68479> .
+
+<http://snomed.info/id/116269007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77138> .
+
+<http://snomed.info/id/116274004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C283> .
+
+<http://snomed.info/id/116280007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C542> .
+
+<http://snomed.info/id/116283009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C253> .
+
+<http://snomed.info/id/11633008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47997> .
+
+<http://snomed.info/id/116344009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61636> .
+
+<http://snomed.info/id/116345005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1337> .
+
+<http://snomed.info/id/116348007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72738> .
+
+<http://snomed.info/id/116349004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C132281> .
+
+<http://snomed.info/id/116352007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48009> .
+
+<http://snomed.info/id/116508003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28833> .
+
+<http://snomed.info/id/116509006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73100> .
+
+<http://snomed.info/id/116510001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61877> .
+
+<http://snomed.info/id/116515006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87204> .
+
+<http://snomed.info/id/116516007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87577> .
+
+<http://snomed.info/id/116521005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28932> .
+
+<http://snomed.info/id/116522003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29063> .
+
+<http://snomed.info/id/116528004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28999> .
+
+<http://snomed.info/id/116529007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80939> .
+
+<http://snomed.info/id/116530002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28907> .
+
+<http://snomed.info/id/116544008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1265> .
+
+<http://snomed.info/id/116546005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29358> .
+
+<http://snomed.info/id/116551004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82275> .
+
+<http://snomed.info/id/116552006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81076> .
+
+<http://snomed.info/id/116571008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C303> .
+
+<http://snomed.info/id/116573006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47964> .
+
+<http://snomed.info/id/116575004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C299> .
+
+<http://snomed.info/id/116580008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98251> .
+
+<http://snomed.info/id/116586002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71629> .
+
+<http://snomed.info/id/116588001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29054> .
+
+<http://snomed.info/id/116593003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C647> .
+
+<http://snomed.info/id/116594009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C901> .
+
+<http://snomed.info/id/116599004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80820> .
+
+<http://snomed.info/id/116601002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C769> .
+
+<http://snomed.info/id/116602009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C770> .
+
+<http://snomed.info/id/116604005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66309> .
+
+<http://snomed.info/id/116613007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1191> .
+
+<http://snomed.info/id/116634000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14187> .
+
+<http://snomed.info/id/116657006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76747> .
+
+<http://snomed.info/id/116769006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133268> .
+
+<http://snomed.info/id/117059000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95072> .
+
+<http://snomed.info/id/117150003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90665> .
+
+<http://snomed.info/id/117151004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C341> .
+
+<http://snomed.info/id/117178002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47597> .
+
+<http://snomed.info/id/117182000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81434> .
+
+<http://snomed.info/id/117186002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1163> .
+
+<http://snomed.info/id/117635006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45496> .
+
+<http://snomed.info/id/11783005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29699> .
+
+<http://snomed.info/id/118235002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C99208> .
+
+<http://snomed.info/id/118254002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36282> .
+
+<http://snomed.info/id/118258004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166748> .
+
+<http://snomed.info/id/118939000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27648> .
+
+<http://snomed.info/id/118940003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26835> .
+
+<http://snomed.info/id/118972000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12413> .
+
+<http://snomed.info/id/1190007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83930> .
+
+<http://snomed.info/id/119181002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13022> .
+
+<http://snomed.info/id/119220009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12416> .
+
+<http://snomed.info/id/119225004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12405> .
+
+<http://snomed.info/id/119228002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403> .
+
+<http://snomed.info/id/119263007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13019> .
+
+<http://snomed.info/id/119410002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12466> .
+
+<http://snomed.info/id/11996000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1450> .
+
+<http://snomed.info/id/120053002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403> .
+
+<http://snomed.info/id/120058006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403> .
+
+<http://snomed.info/id/120619002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47963> .
+
+<http://snomed.info/id/120996005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27851> .
+
+<http://snomed.info/id/12177002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29390> .
+
+<http://snomed.info/id/12208001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152485> .
+
+<http://snomed.info/id/12218006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C398> .
+
+<http://snomed.info/id/122489005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12413> .
+
+<http://snomed.info/id/12289007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133279> .
+
+<http://snomed.info/id/12290003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29018> .
+
+<http://snomed.info/id/12315006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73153> .
+
+<http://snomed.info/id/123579002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65289> .
+
+<http://snomed.info/id/123582007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77399> .
+
+<http://snomed.info/id/123681008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37456> .
+
+<http://snomed.info/id/123850002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38617> .
+
+<http://snomed.info/id/12391001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87482> .
+
+<http://snomed.info/id/123976001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26726> .
+
+<http://snomed.info/id/12502001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80991> .
+
+<http://snomed.info/id/12510000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65603> .
+
+<http://snomed.info/id/12525000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98240> .
+
+<http://snomed.info/id/125689008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174742> .
+
+<http://snomed.info/id/125691000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29463> .
+
+<http://snomed.info/id/125693002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47790> .
+
+<http://snomed.info/id/125699003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1220> .
+
+<http://snomed.info/id/125700002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1476> .
+
+<http://snomed.info/id/125705007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66723> .
+
+<http://snomed.info/id/125706008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66541> .
+
+<http://snomed.info/id/125707004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98249> .
+
+<http://snomed.info/id/125709001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80011> .
+
+<http://snomed.info/id/125710006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65290> .
+
+<http://snomed.info/id/125716000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111762> .
+
+<http://snomed.info/id/125724005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C169758> .
+
+<http://snomed.info/id/126069000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C545> .
+
+<http://snomed.info/id/126070004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77492> .
+
+<http://snomed.info/id/126072007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76962> .
+
+<http://snomed.info/id/126075009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47618> .
+
+<http://snomed.info/id/126076005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C497> .
+
+<http://snomed.info/id/126080000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84145> .
+
+<http://snomed.info/id/126085005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47553> .
+
+<http://snomed.info/id/126086006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47684> .
+
+<http://snomed.info/id/126097006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C486> .
+
+<http://snomed.info/id/126098001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125604> .
+
+<http://snomed.info/id/126101002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C723> .
+
+<http://snomed.info/id/126102009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62059> .
+
+<http://snomed.info/id/126103004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C842> .
+
+<http://snomed.info/id/126105006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47525> .
+
+<http://snomed.info/id/126106007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C703> .
+
+<http://snomed.info/id/126109000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47585> .
+
+<http://snomed.info/id/126110005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C960> .
+
+<http://snomed.info/id/126113007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C629> .
+
+<http://snomed.info/id/126119006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C407> .
+
+<http://snomed.info/id/126120000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1059> .
+
+<http://snomed.info/id/126124009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C414> .
+
+<http://snomed.info/id/126125005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C507> .
+
+<http://snomed.info/id/126131008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47707> .
+
+<http://snomed.info/id/126132001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29093> .
+
+<http://snomed.info/id/126133006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174719> .
+
+<http://snomed.info/id/126147005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77025> .
+
+<http://snomed.info/id/126148000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47446> .
+
+<http://snomed.info/id/126150008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48023> .
+
+<http://snomed.info/id/126152000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77946> .
+
+<http://snomed.info/id/126154004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29003> .
+
+<http://snomed.info/id/126161000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C648> .
+
+<http://snomed.info/id/126162007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C131874> .
+
+<http://snomed.info/id/126171003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95977> .
+
+<http://snomed.info/id/126172005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1090> .
+
+<http://snomed.info/id/126187000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C169866> .
+
+<http://snomed.info/id/126202002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C888> .
+
+<http://snomed.info/id/126204001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2581> .
+
+<http://snomed.info/id/126223008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76833> .
+
+<http://snomed.info/id/126226000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47481> .
+
+<http://snomed.info/id/126238009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C943> .
+
+<http://snomed.info/id/126240004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133268> .
+
+<http://snomed.info/id/126242007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133280> .
+
+<http://snomed.info/id/12716009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120559> .
+
+<http://snomed.info/id/127384006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C329> .
+
+<http://snomed.info/id/127965004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28937> .
+
+<http://snomed.info/id/128073008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27148> .
+
+<http://snomed.info/id/128134005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26771> .
+
+<http://snomed.info/id/128139000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93210> .
+
+<http://snomed.info/id/12821002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81139> .
+
+<http://snomed.info/id/128283000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26835> .
+
+<http://snomed.info/id/128289001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97045> .
+
+<http://snomed.info/id/128295000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93210> .
+
+<http://snomed.info/id/128606002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3430> .
+
+<http://snomed.info/id/128936008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/128937004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3439> .
+
+<http://snomed.info/id/128938009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27864> .
+
+<http://snomed.info/id/128984004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/129264002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25404> .
+
+<http://snomed.info/id/129471005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82623> .
+
+<http://snomed.info/id/129472003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1681> .
+
+<http://snomed.info/id/129474002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1724> .
+
+<http://snomed.info/id/129476000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2629> .
+
+<http://snomed.info/id/129478004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61628> .
+
+<http://snomed.info/id/129479007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48031> .
+
+<http://snomed.info/id/129482002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47546> .
+
+<http://snomed.info/id/129485000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47666> .
+
+<http://snomed.info/id/129488003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47515> .
+
+<http://snomed.info/id/129489006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29032> .
+
+<http://snomed.info/id/129490002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47540> .
+
+<http://snomed.info/id/129492005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47414> .
+
+<http://snomed.info/id/129493000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47766> .
+
+<http://snomed.info/id/129497004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65963> .
+
+<http://snomed.info/id/129498009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47415> .
+
+<http://snomed.info/id/129558005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1687> .
+
+<http://snomed.info/id/130196001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16561> .
+
+<http://snomed.info/id/13030002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90654> .
+
+<http://snomed.info/id/13121007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68369> .
+
+<http://snomed.info/id/13150000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14182> .
+
+<http://snomed.info/id/1325004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66131> .
+
+<http://snomed.info/id/134633001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1102> .
+
+<http://snomed.info/id/134784005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29492> .
+
+<http://snomed.info/id/134795004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74024> .
+
+<http://snomed.info/id/13502005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29101> .
+
+<http://snomed.info/id/136501000146105> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73091> .
+
+<http://snomed.info/id/13659003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65253> .
+
+<http://snomed.info/id/13668001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29388> .
+
+<http://snomed.info/id/1368003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C171348> .
+
+<http://snomed.info/id/14006006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76752> .
+
+<http://snomed.info/id/14013006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65828> .
+
+<http://snomed.info/id/14060003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28138> .
+
+<http://snomed.info/id/14103001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67413> .
+
+<http://snomed.info/id/14139007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76828> .
+
+<http://snomed.info/id/14340003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2827> .
+
+<http://snomed.info/id/14409006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75068> .
+
+<http://snomed.info/id/1450002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76098> .
+
+<http://snomed.info/id/14507006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76411> .
+
+<http://snomed.info/id/14585001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77569> .
+
+<http://snomed.info/id/14645000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84250> .
+
+<http://snomed.info/id/14715007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C169902> .
+
+<http://snomed.info/id/14743003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75265> .
+
+<http://snomed.info/id/1476002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53137> .
+
+<http://snomed.info/id/14767006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82258> .
+
+<http://snomed.info/id/14809000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76586> .
+
+<http://snomed.info/id/14905007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45907> .
+
+<http://snomed.info/id/15009009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83931> .
+
+<http://snomed.info/id/15052009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62024> .
+
+<http://snomed.info/id/15322006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78768> .
+
+<http://snomed.info/id/15352003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28949> .
+
+<http://snomed.info/id/1536005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66323> .
+
+<http://snomed.info/id/15472007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68472> .
+
+<http://snomed.info/id/15730005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C764> .
+
+<http://snomed.info/id/15785009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29357> .
+
+<http://snomed.info/id/15810003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152777> .
+
+<http://snomed.info/id/16031005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61707> .
+
+<http://snomed.info/id/16125005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152442> .
+
+<http://snomed.info/id/16211000122103> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79883> .
+
+<http://snomed.info/id/16214005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65368> .
+
+<http://snomed.info/id/16261000122100> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83771> .
+
+<http://snomed.info/id/16291000122106> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83782> .
+
+<http://snomed.info/id/16311000122105> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74280> .
+
+<http://snomed.info/id/16359004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80790> .
+
+<http://snomed.info/id/16392005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65852> .
+
+<http://snomed.info/id/16683002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1891> .
+
+<http://snomed.info/id/16748005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81148> .
+
+<http://snomed.info/id/16783009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C139651> .
+
+<http://snomed.info/id/16808006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44459> .
+
+<http://snomed.info/id/16826009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29349> .
+
+<http://snomed.info/id/16946000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82268> .
+
+<http://snomed.info/id/17008002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66004> .
+
+<http://snomed.info/id/17062003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1448> .
+
+<http://snomed.info/id/17147002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C162164> .
+
+<http://snomed.info/id/17212003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76480> .
+
+<http://snomed.info/id/17243005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C918> .
+
+<http://snomed.info/id/17244004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47401> .
+
+<http://snomed.info/id/17356001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66455> .
+
+<http://snomed.info/id/17666001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C336> .
+
+<http://snomed.info/id/17750005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29839> .
+
+<http://snomed.info/id/17893001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48687> .
+
+<http://snomed.info/id/17908000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65257> .
+
+<http://snomed.info/id/17990002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C170159> .
+
+<http://snomed.info/id/18321003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29497> .
+
+<http://snomed.info/id/18462008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66114> .
+
+<http://snomed.info/id/18550006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29498> .
+
+<http://snomed.info/id/18569001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29372> .
+
+<http://snomed.info/id/18600008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101515> .
+
+<http://snomed.info/id/187006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76047> .
+
+<http://snomed.info/id/18712002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66363> .
+
+<http://snomed.info/id/18751000122108> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73179> .
+
+<http://snomed.info/id/18815007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76745> .
+
+<http://snomed.info/id/18832006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75198> .
+
+<http://snomed.info/id/18836009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C296> .
+
+<http://snomed.info/id/18858006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68534> .
+
+<http://snomed.info/id/18914005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47557> .
+
+<http://snomed.info/id/18991000122102> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81064> .
+
+<http://snomed.info/id/19041007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66609> .
+
+<http://snomed.info/id/19114000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47591> .
+
+<http://snomed.info/id/19126005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82319> .
+
+<http://snomed.info/id/19209005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1697> .
+
+<http://snomed.info/id/19261000122107> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65484> .
+
+<http://snomed.info/id/19351000122101> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65714> .
+
+<http://snomed.info/id/19421007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47444> .
+
+<http://snomed.info/id/19499001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47432> .
+
+<http://snomed.info/id/19510001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C300> .
+
+<http://snomed.info/id/1956002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65274> .
+
+<http://snomed.info/id/19630009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66567> .
+
+<http://snomed.info/id/19660004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27042> .
+
+<http://snomed.info/id/1971003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77574> .
+
+<http://snomed.info/id/19839007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29462> .
+
+<http://snomed.info/id/19893005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84101> .
+
+<http://snomed.info/id/19901000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81054> .
+
+<http://snomed.info/id/19918001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75936> .
+
+<http://snomed.info/id/19978007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76138> .
+
+<http://snomed.info/id/200001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83551> .
+
+<http://snomed.info/id/2016004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29516> .
+
+<http://snomed.info/id/20229003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81146> .
+
+<http://snomed.info/id/20231007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47958> .
+
+<http://snomed.info/id/20327004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74148> .
+
+<http://snomed.info/id/20340009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61843> .
+
+<http://snomed.info/id/20413008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C170118> .
+
+<http://snomed.info/id/20468007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73139> .
+
+<http://snomed.info/id/20640002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73949> .
+
+<http://snomed.info/id/20691000122100> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65991> .
+
+<http://snomed.info/id/20741000122103> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152660> .
+
+<http://snomed.info/id/20925001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120561> .
+
+<http://snomed.info/id/20957000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97089> .
+
+<http://snomed.info/id/2100004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74379> .
+
+<http://snomed.info/id/21066009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47424> .
+
+<http://snomed.info/id/21175009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66112> .
+
+<http://snomed.info/id/21235009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66399> .
+
+<http://snomed.info/id/21239003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77428> .
+
+<http://snomed.info/id/2125008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65258> .
+
+<http://snomed.info/id/21303006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66120> .
+
+<http://snomed.info/id/21394008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76456> .
+
+<http://snomed.info/id/21518006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C678> .
+
+<http://snomed.info/id/21533003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16804> .
+
+<http://snomed.info/id/21566004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47617> .
+
+<http://snomed.info/id/21568003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12396> .
+
+<http://snomed.info/id/21572004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C88319> .
+
+<http://snomed.info/id/21614004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47668> .
+
+<http://snomed.info/id/21625008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68421> .
+
+<http://snomed.info/id/21632004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1450> .
+
+<http://snomed.info/id/21793004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12374> .
+
+<http://snomed.info/id/21829004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12679> .
+
+<http://snomed.info/id/21880003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87435> .
+
+<http://snomed.info/id/21888005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45871> .
+
+<http://snomed.info/id/2195004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47761> .
+
+<http://snomed.info/id/22005007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75067> .
+
+<http://snomed.info/id/22086005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47723> .
+
+<http://snomed.info/id/22165008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65435> .
+
+<http://snomed.info/id/22192002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80566> .
+
+<http://snomed.info/id/22236007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61621> .
+
+<http://snomed.info/id/22340000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84162> .
+
+<http://snomed.info/id/224767005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C727> .
+
+<http://snomed.info/id/225540005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3137> .
+
+<http://snomed.info/id/226360008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28178> .
+
+<http://snomed.info/id/226365003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C492> .
+
+<http://snomed.info/id/226366002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C492> .
+
+<http://snomed.info/id/226367006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68361> .
+
+<http://snomed.info/id/226368001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68345> .
+
+<http://snomed.info/id/22654004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29383> .
+
+<http://snomed.info/id/226723006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73936> .
+
+<http://snomed.info/id/227598003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65859> .
+
+<http://snomed.info/id/227624001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37935> .
+
+<http://snomed.info/id/22771000122108> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C174766> .
+
+<http://snomed.info/id/22790003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81338> .
+
+<http://snomed.info/id/22792006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66641> .
+
+<http://snomed.info/id/228089005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84094> .
+
+<http://snomed.info/id/228103005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C275> .
+
+<http://snomed.info/id/228104004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77383> .
+
+<http://snomed.info/id/228105003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82288> .
+
+<http://snomed.info/id/228111000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76512> .
+
+<http://snomed.info/id/22827004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C775> .
+
+<http://snomed.info/id/22976006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47387> .
+
+<http://snomed.info/id/23068001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1033> .
+
+<http://snomed.info/id/23134009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45496> .
+
+<http://snomed.info/id/23243007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C713> .
+
+<http://snomed.info/id/23295004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16354> .
+
+<http://snomed.info/id/2331003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C344> .
+
+<http://snomed.info/id/23433006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29029> .
+
+<http://snomed.info/id/23564005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29015> .
+
+<http://snomed.info/id/23814005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65831> .
+
+<http://snomed.info/id/23832005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66002> .
+
+<http://snomed.info/id/23883005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C638> .
+
+<http://snomed.info/id/23969007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66646> .
+
+<http://snomed.info/id/239953001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12471> .
+
+<http://snomed.info/id/240102007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61671> .
+
+<http://snomed.info/id/24022008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28876> .
+
+<http://snomed.info/id/24036003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C267> .
+
+<http://snomed.info/id/24202000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66506> .
+
+<http://snomed.info/id/24215009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80865> .
+
+<http://snomed.info/id/24261009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29522> .
+
+<http://snomed.info/id/24336008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47393> .
+
+<http://snomed.info/id/24434007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77502> .
+
+<http://snomed.info/id/24583009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47748> .
+
+<http://snomed.info/id/24650007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75932> .
+
+<http://snomed.info/id/24721007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77040> .
+
+<http://snomed.info/id/24751001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29314> .
+
+<http://snomed.info/id/24823004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C750> .
+
+<http://snomed.info/id/24869004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71734> .
+
+<http://snomed.info/id/25002001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81093> .
+
+<http://snomed.info/id/25013003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75232> .
+
+<http://snomed.info/id/25141001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47777> .
+
+<http://snomed.info/id/25254000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47687> .
+
+<http://snomed.info/id/25307002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29538> .
+
+<http://snomed.info/id/2537003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C280> .
+
+<http://snomed.info/id/25401000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67084> .
+
+<http://snomed.info/id/25486007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87326> .
+
+<http://snomed.info/id/25525005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87607> .
+
+<http://snomed.info/id/25538002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47753> .
+
+<http://snomed.info/id/255620007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62695> .
+
+<http://snomed.info/id/255632006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C264> .
+
+<http://snomed.info/id/255641001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C328> .
+
+<http://snomed.info/id/255647002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76703> .
+
+<http://snomed.info/id/255666002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47394> .
+
+<http://snomed.info/id/255667006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C727> .
+
+<http://snomed.info/id/25571003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75200> .
+
+<http://snomed.info/id/255763000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80898> .
+
+<http://snomed.info/id/255844007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92608> .
+
+<http://snomed.info/id/255847000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80927> .
+
+<http://snomed.info/id/255859001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C322> .
+
+<http://snomed.info/id/255862003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47974> .
+
+<http://snomed.info/id/255870008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84052> .
+
+<http://snomed.info/id/255880007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77133> .
+
+<http://snomed.info/id/255884003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77039> .
+
+<http://snomed.info/id/255895009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76717> .
+
+<http://snomed.info/id/255898006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75079> .
+
+<http://snomed.info/id/255900008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76728> .
+
+<http://snomed.info/id/255905003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C152407> .
+
+<http://snomed.info/id/255906002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77508> .
+
+<http://snomed.info/id/255915009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76707> .
+
+<http://snomed.info/id/255916005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61778> .
+
+<http://snomed.info/id/255924000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75095> .
+
+<http://snomed.info/id/255945007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83534> .
+
+<http://snomed.info/id/255954005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47698> .
+
+<http://snomed.info/id/255963007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92173> .
+
+<http://snomed.info/id/255999002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47485> .
+
+<http://snomed.info/id/256015004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C75079> .
+
+<http://snomed.info/id/256018002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65346> .
+
+<http://snomed.info/id/256026005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76703> .
+
+<http://snomed.info/id/256103001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84136> .
+
+<http://snomed.info/id/256171000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47406> .
+
+<http://snomed.info/id/256173002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66252> .
+
+<http://snomed.info/id/256176005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66142> .
+
+<http://snomed.info/id/256214007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1045> .
+
+<http://snomed.info/id/256223005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65671> .
+
+<http://snomed.info/id/256259004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79660> .
+
+<http://snomed.info/id/256395009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133278> .
+
+<http://snomed.info/id/256400005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C133266> .
+
+<http://snomed.info/id/25761002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C522> .
+
+<http://snomed.info/id/25796002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76795> .
+
+<http://snomed.info/id/259100002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80523> .
+
+<http://snomed.info/id/259115001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66422> .
+
+<http://snomed.info/id/259123004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68556> .
+
+<http://snomed.info/id/259139006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65276> .
+
+<http://snomed.info/id/259170003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29819> .
+
+<http://snomed.info/id/259268001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C602> .
+
+<http://snomed.info/id/259333003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C330> .
+
+<http://snomed.info/id/259337002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77155> .
+
+<http://snomed.info/id/259381005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C97089> .
+
+<http://snomed.info/id/259427008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63662> .
+
+<http://snomed.info/id/259446009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83975> .
+
+<http://snomed.info/id/259576000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68421> .
+
+<http://snomed.info/id/259577009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68404> .
+
+<http://snomed.info/id/259578004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68421> .
+
+<http://snomed.info/id/259579007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68404> .
+
+<http://snomed.info/id/260241009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65259> .
+
+<http://snomed.info/id/260667007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12981> .
+
+<http://snomed.info/id/260769002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48187> .
+
+<http://snomed.info/id/261000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74548> .
+
+<http://snomed.info/id/26104006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25951> .
+
+<http://snomed.info/id/26109001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47674> .
+
+<http://snomed.info/id/26120001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28979> .
+
+<http://snomed.info/id/261226001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1930> .
+
+<http://snomed.info/id/261276004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C267> .
+
+<http://snomed.info/id/26160000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16759> .
+
+<http://snomed.info/id/26191006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47691> .
+
+<http://snomed.info/id/262212007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C74536> .
+
+<http://snomed.info/id/26288002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C664> .
+
+<http://snomed.info/id/26346008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29033> .
+
+<http://snomed.info/id/26351002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C782> .
+
+<http://snomed.info/id/26370007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78311> .
+
+<http://snomed.info/id/26379008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72169> .
+
+<http://snomed.info/id/264325000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48029> .
+
+<http://snomed.info/id/264337003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73913> .
+
+<http://snomed.info/id/26580005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C434> .
+
+<http://snomed.info/id/266579006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93210> .
+
+<http://snomed.info/id/26945002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47667> .
+
+<http://snomed.info/id/26961000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77455> .
+
+<http://snomed.info/id/26992003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83619> .
+
+<http://snomed.info/id/27138006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76515> .
+
+<http://snomed.info/id/272167000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82130> .
+
+<http://snomed.info/id/27242001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C647> .
+
+<http://snomed.info/id/27268008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39227> .
+
+<http://snomed.info/id/27378009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61817> .
+
+<http://snomed.info/id/27380003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C706> .
+
+<http://snomed.info/id/273944007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1149> .
+
+<http://snomed.info/id/273945008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29148> .
+
+<http://snomed.info/id/273948005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28922> .
+
+<http://snomed.info/id/273951003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66377> .
+
+<http://snomed.info/id/273952005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166783> .
+
+<http://snomed.info/id/273961005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C323> .
+
+<http://snomed.info/id/27499006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66283> .
+
+<http://snomed.info/id/27550009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35117> .
+
+<http://snomed.info/id/27586005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90994> .
+
+<http://snomed.info/id/27624003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2965> .
+
+<http://snomed.info/id/276882005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403> .
+
+<http://snomed.info/id/277019000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47689> .
+
+<http://snomed.info/id/27766008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84124> .
+
+<http://snomed.info/id/27867009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C274> .
+
+<http://snomed.info/id/27888000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C812> .
+
+<http://snomed.info/id/278910002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16570> .
+
+<http://snomed.info/id/27928002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29060> .
+
+<http://snomed.info/id/2796008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83951> .
+
+<http://snomed.info/id/2799001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166792> .
+
+<http://snomed.info/id/28021008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76707> .
+
+<http://snomed.info/id/28029005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66109> .
+
+<http://snomed.info/id/281000220103> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2639> .
+
+<http://snomed.info/id/281620006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C553> .
+
+<http://snomed.info/id/282026002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12471> .
+
+<http://snomed.info/id/28223003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81015> .
+
+<http://snomed.info/id/282749008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12418> .
+
+<http://snomed.info/id/28344001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66091> .
+
+<http://snomed.info/id/28531000087107> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C173023> .
+
+<http://snomed.info/id/28580002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C166495> .
+
+<http://snomed.info/id/28647000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C126482> .
+
+<http://snomed.info/id/28662003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C551> .
+
+<http://snomed.info/id/2869004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76926> .
+
+<http://snomed.info/id/28702005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C79895> .
+
+<http://snomed.info/id/287085006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35107> .
+
+<http://snomed.info/id/2878005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C635> .
+
+<http://snomed.info/id/2880004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76833> .
+
+<http://snomed.info/id/28823005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80944> .
+
+<http://snomed.info/id/289831003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403> .
+
+<http://snomed.info/id/289942006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71849> .
+
+<http://snomed.info/id/29184007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65419> .
+
+<http://snomed.info/id/29190006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47994> .
+
+<http://snomed.info/id/29246005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13806> .
+
+<http://snomed.info/id/2925007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29058> .
+
+<http://snomed.info/id/2927004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61923> .
+
+<http://snomed.info/id/29301006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47576> .
+
+<http://snomed.info/id/29363006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76748> .
+
+<http://snomed.info/id/29522004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77063> .
+
+<http://snomed.info/id/2958003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84246> .
+
+<http://snomed.info/id/29588002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47422> .
+
+<http://snomed.info/id/29666006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C704> .
+
+<http://snomed.info/id/29725000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1034> .
+
+<http://snomed.info/id/29783009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78116> .
+
+<http://snomed.info/id/29805009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C77490> .
+
+<http://snomed.info/id/2991007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66064> .
+
+<http://snomed.info/id/2995003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76610> .
+
+<http://snomed.info/id/299979007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1916> .
+
+<http://snomed.info/id/299992005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25951> .
+
+<http://snomed.info/id/300000003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65276> .
+
+<http://snomed.info/id/300047007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94313> .
+
+<http://snomed.info/id/30034004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80896> .
+
+<http://snomed.info/id/30065008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16261> .
+
+<http://snomed.info/id/300966009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61911> .
+
+<http://snomed.info/id/300967000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61934> .
+
+<http://snomed.info/id/301054007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28269> .
+
+<http://snomed.info/id/301060007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80555> .
+
+<http://snomed.info/id/301304005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68404> .
+
+<http://snomed.info/id/301427001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C344> .
+
+<http://snomed.info/id/301840003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68331> .
+
+<http://snomed.info/id/301844007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61101> .
+
+<http://snomed.info/id/301845008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73539> .
+
+<http://snomed.info/id/30236005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73335> .
+
+<http://snomed.info/id/3031003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76484> .
+
+<http://snomed.info/id/30329006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66635> .
+
+<http://snomed.info/id/303960004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29750> .
+
+<http://snomed.info/id/30424002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47693> .
+
+<http://snomed.info/id/304372009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16518> .
+
+<http://snomed.info/id/304380002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18072> .
+
+<http://snomed.info/id/304381003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18073> .
+
+<http://snomed.info/id/30492008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C448> .
+
+<http://snomed.info/id/30676006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66113> .
+
+<http://snomed.info/id/30745005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47590> .
+
+<http://snomed.info/id/30804005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16570> .
+
+<http://snomed.info/id/30827002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83540> .
+
+<http://snomed.info/id/308489006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16956> .
+
+<http://snomed.info/id/308490002> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16956> .
+
+<http://snomed.info/id/310283001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87611> .
+
+<http://snomed.info/id/31055005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48592> .
+
+<http://snomed.info/id/311423009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C87485> .
+
+<http://snomed.info/id/31147000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C649> .
+
+<http://snomed.info/id/311731000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C727> .
+
+<http://snomed.info/id/311753003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C552> .
+
+<http://snomed.info/id/31178001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28866> .
+
+<http://snomed.info/id/311835000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C718> .
+
+<http://snomed.info/id/312122008> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/312123003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/312124009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/312125005> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/312126006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890> .
+
+<http://snomed.info/id/312132001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3439> .
+
+<http://snomed.info/id/312135004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3439> .
+
+<http://snomed.info/id/312154004> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107377> .
+
+<http://snomed.info/id/312225001> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C107377> .
+
+<http://snomed.info/id/312418006> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27864> .
+
+<http://snomed.info/id/312426003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41494> .
+
+<http://snomed.info/id/31310007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C518> .
+
+<http://snomed.info/id/31347007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61436> .
+
+<http://snomed.info/id/3142009> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76502> .
+
+<http://snomed.info/id/31435000> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12403> .
+
+<http://snomed.info/id/316963003> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1149> .
+
+<http://snomed.info/id/31706007> owl:equivalentClass <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C29142> .
+

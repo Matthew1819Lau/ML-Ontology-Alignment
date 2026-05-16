@@ -1,0 +1,23 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://confOf#Administrator> rdfs:subClassOf <http://sigkdd#Organizator> .
+
+<http://confOf#Author> owl:equivalentClass <http://sigkdd#Author> .
+
+<http://confOf#Company> rdfs:subClassOf <http://sigkdd#Organizing_Committee_member> .
+
+<http://confOf#Conference> owl:equivalentClass <http://sigkdd#Conference> .
+
+<http://confOf#Paper> owl:equivalentClass <http://sigkdd#Paper> .
+
+<http://confOf#Person> owl:equivalentClass <http://sigkdd#Person> .
+
+<http://confOf#Science_Worker> rdfs:subClassOf <http://sigkdd#Listener> .
+
+<http://confOf#University> rdfs:subClassOf <http://sigkdd#Organizing_Committee_member> .
+
+<http://confOf#Volunteer> rdfs:subClassOf <http://sigkdd#Listener> .
+
+<http://confOf#abstract> owl:equivalentProperty <http://sigkdd#Abstract> .
+
