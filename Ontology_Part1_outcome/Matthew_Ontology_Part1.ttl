@@ -1,0 +1,368 @@
+@prefix : <http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/> .
+@prefix ml: <http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/> rdf:type owl:Ontology ;
+                                                         <http://purl.org/dc/elements/1.1/creator> "Matthew Lau"@en ;
+                                                         rdfs:comment """It is an ontology modelling project based on the Animal Planet dataset from Kaggle (https://www.kaggle.com/datasets/lainguyn123/animal-planet/data
+), covering taxonomy, diet, habitat, and reproductive behaviour.""" ;
+                                                         rdfs:label "Animal Classification Ontology_Coursework_Part1" .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/dc/elements/1.1/creator
+<http://purl.org/dc/elements/1.1/creator> rdf:type owl:AnnotationProperty ;
+                                          rdfs:seeAlso "has diet" .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasDiet
+ml:hasDiet rdf:type owl:ObjectProperty ;
+           rdfs:domain ml:Animal ;
+           rdfs:range ml:Diet ;
+           rdfs:comment "Relates an animal to its dietary category" ;
+           rdfs:seeAlso "has diet" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasHabitat
+ml:hasHabitat rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdf:type owl:AsymmetricProperty ;
+              rdfs:domain ml:Animal ;
+              rdfs:range ml:Habitat ;
+              rdfs:comment "Relates an animal to the biome it inhabits" ;
+              rdfs:seeAlso "live in" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasPreyOf
+ml:hasPreyOf rdf:type owl:ObjectProperty ,
+                      owl:AsymmetricProperty ,
+                      owl:IrreflexiveProperty ;
+             rdfs:domain ml:Animal ;
+             rdfs:range ml:Animal ;
+             rdfs:comment "Relates a predator animal to its prey animal" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasReproductive
+ml:hasReproductive rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf owl:topObjectProperty ;
+                   rdf:type owl:FunctionalProperty ,
+                            owl:AsymmetricProperty ,
+                            owl:IrreflexiveProperty ;
+                   rdfs:domain ml:Animal ;
+                   rdfs:range ml:Reproductive ;
+                   rdfs:comment "Relates an animal to its primary reproductive strategy" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/isNaturalEnemyOf
+ml:isNaturalEnemyOf rdf:type owl:ObjectProperty ,
+                             owl:SymmetricProperty ,
+                             owl:IrreflexiveProperty ;
+                    rdfs:domain ml:Animal ;
+                    rdfs:range ml:Animal ;
+                    rdfs:comment "Relates two animals that are in natural conflict or competition" .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasCommonName
+ml:hasCommonName rdf:type owl:DatatypeProperty ,
+                          owl:FunctionalProperty ;
+                 rdfs:domain ml:Animal ;
+                 rdfs:range xsd:string .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasConservationStatus
+ml:hasConservationStatus rdf:type owl:DatatypeProperty ,
+                                  owl:FunctionalProperty ;
+                         rdfs:domain ml:Animal ;
+                         rdfs:range xsd:string .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasLIfespan
+ml:hasLIfespan rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain ml:Animal ;
+               rdfs:range xsd:string .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasScientificName
+ml:hasScientificName rdf:type owl:DatatypeProperty ,
+                              owl:FunctionalProperty ;
+                     rdfs:domain ml:Animal ;
+                     rdfs:range xsd:string .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasTopSpeed
+ml:hasTopSpeed rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain ml:Animal ;
+               rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Amphibia
+ml:Amphibia rdf:type owl:Class ;
+            rdfs:subClassOf ml:Chordata ,
+                            [ owl:intersectionOf ( [ rdf:type owl:Restriction ;
+                                                     owl:onProperty ml:hasHabitat ;
+                                                     owl:someValuesFrom ml:AquaticHabitat
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty ml:hasHabitat ;
+                                                     owl:someValuesFrom ml:TerrestrialHabitat
+                                                   ]
+                                                 ) ;
+                              rdf:type owl:Class
+                            ] ;
+            rdfs:comment "Amphibians are cold-blooded vertebrates that don't have scales and living in both land and water" ;
+            rdfs:isDefinedBy "Amphibian" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Animal
+ml:Animal rdf:type owl:Class ;
+          rdfs:comment "Animal is a living organism" ;
+          rdfs:label "Animal" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/AquaticHabitat
+ml:AquaticHabitat rdf:type owl:Class ;
+                  rdfs:subClassOf ml:Habitat ;
+                  rdfs:isDefinedBy "Marine,River" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Artiodactyla
+ml:Artiodactyla rdf:type owl:Class ;
+                rdfs:subClassOf ml:Mammalia .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Aves
+ml:Aves rdf:type owl:Class ;
+        rdfs:subClassOf ml:Chordata ,
+                        [ rdf:type owl:Restriction ;
+                          owl:onProperty ml:hasHabitat ;
+                          owl:allValuesFrom ml:TerrestrialHabitat
+                        ] ,
+                        [ rdf:type owl:Restriction ;
+                          owl:onProperty ml:hasReproductive ;
+                          owl:allValuesFrom ml:Oviparous
+                        ] .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Canidae
+ml:Canidae rdf:type owl:Class ;
+           rdfs:subClassOf ml:Carnivora ;
+           owl:disjointWith ml:Felidae ;
+           rdfs:isDefinedBy "Dog family" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Carnivora
+ml:Carnivora rdf:type owl:Class ;
+             rdfs:subClassOf ml:Mammalia ,
+                             [ rdf:type owl:Restriction ;
+                               owl:onProperty ml:hasDiet ;
+                               owl:someValuesFrom ml:CarnivoreDiet
+                             ] ;
+             owl:disjointWith ml:CarnivoreDiet ;
+             rdfs:comment "Carnivora is an order of placental mammals specialised primarily in eating meat." .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/CarnivoreDiet
+ml:CarnivoreDiet rdf:type owl:Class ;
+                 rdfs:subClassOf ml:Diet ;
+                 owl:disjointWith ml:HerbivoreDiet ;
+                 rdfs:isDefinedBy "Meat-eater" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Cephalopoda
+ml:Cephalopoda rdf:type owl:Class ;
+               rdfs:subClassOf ml:Mollusca ,
+                               [ rdf:type owl:Restriction ;
+                                 owl:onProperty ml:hasHabitat ;
+                                 owl:allValuesFrom ml:AquaticHabitat
+                               ] .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Chordata
+ml:Chordata rdf:type owl:Class ;
+            rdfs:subClassOf ml:Animal ;
+            owl:disjointWith ml:Mollusca ;
+            rdfs:comment "A Chordata is an organism that has bones or a backbone (internal skeleton)." ;
+            rdfs:isDefinedBy "Vertebrate" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Diet
+ml:Diet rdf:type owl:Class .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Felidae
+ml:Felidae rdf:type owl:Class ;
+           rdfs:subClassOf ml:Carnivora ;
+           rdfs:isDefinedBy "Cat family" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Gastropoda
+ml:Gastropoda rdf:type owl:Class ;
+              rdfs:subClassOf ml:Mollusca .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Habitat
+ml:Habitat rdf:type owl:Class .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/HerbivoreDiet
+ml:HerbivoreDiet rdf:type owl:Class ;
+                 rdfs:subClassOf ml:Diet ;
+                 rdfs:isDefinedBy "Plant-eater" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Mammalia
+ml:Mammalia rdf:type owl:Class ;
+            rdfs:subClassOf ml:Chordata ,
+                            [ rdf:type owl:Restriction ;
+                              owl:onProperty ml:hasReproductive ;
+                              owl:someValuesFrom ml:Viviparous
+                            ] .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Mollusca
+ml:Mollusca rdf:type owl:Class ;
+            rdfs:subClassOf ml:Animal .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/OmnivoreDiet
+ml:OmnivoreDiet rdf:type owl:Class ;
+                rdfs:subClassOf ml:Diet ;
+                rdfs:comment "An omnivore is an animal that consumes both plant-based and animal-based food." .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Oviparous
+ml:Oviparous rdf:type owl:Class ;
+             rdfs:subClassOf ml:Reproductive ;
+             owl:disjointWith ml:Viviparous ;
+             rdfs:isDefinedBy "Egg-laying" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Primate
+ml:Primate rdf:type owl:Class ;
+           rdfs:subClassOf ml:Mammalia .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Reproductive
+ml:Reproductive rdf:type owl:Class .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Reptilia
+ml:Reptilia rdf:type owl:Class ;
+            rdfs:subClassOf ml:Chordata ;
+            rdfs:comment "Reptiles are cold-blooded air-breathing vertebrates that usually lay eggs and have skin covered with scales or bony plates" ;
+            rdfs:isDefinedBy "Reptile" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/TerrestrialHabitat
+ml:TerrestrialHabitat rdf:type owl:Class ;
+                      rdfs:subClassOf ml:Habitat ;
+                      rdfs:isDefinedBy "Land" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Viviparous
+ml:Viviparous rdf:type owl:Class ;
+              rdfs:subClassOf ml:Reproductive ;
+              rdfs:isDefinedBy "Live-bearing" .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Aquatic_Habitat
+ml:Aquatic_Habitat rdf:type owl:NamedIndividual .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Axolotl
+ml:Axolotl rdf:type owl:NamedIndividual ,
+                    ml:Amphibia ;
+           ml:hasHabitat ml:Aquatic_Habitat ,
+                         ml:Terrestrial_Habitat ;
+           ml:hasReproductive ml:Egg_Laying ;
+           ml:hasConservationStatus "Critically endangered (CR)" ;
+           ml:hasScientificName "Ambystoma mexicanum" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/BaldEagle
+ml:BaldEagle rdf:type owl:NamedIndividual ,
+                      ml:Aves ;
+             ml:hasDiet ml:Carnivore_diet ;
+             ml:hasHabitat ml:Terrestrial_Habitat ;
+             ml:hasReproductive ml:Egg_Laying ;
+             ml:hasConservationStatus "Least concern" ;
+             ml:hasScientificName "Hailaeetus leucocephalus" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Bonobo
+ml:Bonobo rdf:type owl:NamedIndividual ,
+                   ml:Primate .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Carnivore_diet
+ml:Carnivore_diet rdf:type owl:NamedIndividual .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Egg_Laying
+ml:Egg_Laying rdf:type owl:NamedIndividual .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/GiantSquid
+ml:GiantSquid rdf:type owl:NamedIndividual ,
+                       ml:Cephalopoda ;
+              ml:hasHabitat ml:Aquatic_Habitat ;
+              ml:hasConservationStatus "Least concern (LC)" ;
+              ml:hasScientificName "Architeuthis dux" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/GreyWolf
+ml:GreyWolf rdf:type owl:NamedIndividual ,
+                     ml:Canidae ;
+            ml:hasDiet ml:Carnivore_diet ;
+            ml:hasHabitat ml:Terrestrial_Habitat ;
+            ml:hasPreyOf ml:Bonobo ;
+            ml:hasReproductive ml:Live_Birth ;
+            ml:isNaturalEnemyOf ml:Tiger ;
+            ml:hasConservationStatus "Least concern (LC)" ;
+            ml:hasScientificName "Canis lupus" .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Live_Birth
+ml:Live_Birth rdf:type owl:NamedIndividual .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Terrestrial_Habitat
+ml:Terrestrial_Habitat rdf:type owl:NamedIndividual .
+
+
+###  http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Tiger
+ml:Tiger rdf:type owl:NamedIndividual ,
+                  ml:Felidae ;
+         ml:hasDiet ml:Carnivore_diet ;
+         ml:hasHabitat ml:Terrestrial_Habitat ;
+         ml:hasReproductive ml:Live_Birth ;
+         ml:hasConservationStatus "Endangered (EN)" ;
+         ml:hasScientificName "Pathera tigris" .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
