@@ -2,7 +2,7 @@
 Name of the system: Matthew Lau Ontology Alignment (MLOA)
 
 ### Introduction
-The **MLOA system** is an individual project designed to align a pair of ontologies a **source ontology** and a **target ontology** from different dataset domains.<br/><br/>
+The **MLOA system** is an individual project designed to align a pair of ontologies which is a **source ontology** and a **target ontology** from different dataset domains.<br/><br/>
 The daset inculdes the **Animal Planet** dataset from Kaggle (https://www.kaggle.com/datasets/lainguyn123/animal-planet/data), which covers the taxonomy of animals species and the **OAEI datasets 2025** from Ontology Alignment Evaluation Initiative (OAEI) (https://oaei.ontologymatching.org/2025/), including conference, digital humanities, circular economy, anatomy, Bio-ML, and knowledge graph domains.
 
 ### The MLOA implemented techniques and how to run the piepline (Subtask OA.1)
@@ -43,7 +43,7 @@ The MLOA system successfully aligned the two Part 1 ontologies, producing 12 map
 Therefore, it confirms the alignment is semantically valid and supports bidirectional cross-ontology querying afterOWL 2 RL reasoning.
 
 Note: **The instance matching (owl:sameAs) was not possible**.<br/>
-- Although A_Ontology contains 99 named individuals, all are Dublin Core metadata terms (e.g. dc:creator, dc:title) which are unrealted to the animal domain. Therefore, there are no domain-level animal instances exist in A_Ontology to match against M_Ontology's 6 animal individuals (Tiger, GreyWolf, BaldEagle, Bonobo, Axolotl, GiantSquid).
+- Although A_Ontology contains 99 named individuals, all are Dublin Core metadata terms (e.g. dc:creator, dc:title) which are unrealted to the animal domain. Therefore, there are no domain-level animal instances existing in A_Ontology to match against M_Ontology's 6 animal individuals (Tiger, GreyWolf, BaldEagle, Bonobo, Axolotl, GiantSquid).
 #### OA.3 SPARAL Query results
 Two SPARQL queries were executed after applying OWL 2 RL reasoning using owlrl:
 
@@ -96,5 +96,5 @@ Despite these strategies, instance-level matching remained challenging. The TP/F
 ### Discussion and Limitation
 The system demonstrates several clear strengths across different ontology alignment scenarios. It achieves strong performance on standardised English ontologies, with the Anatomy track reaching an F-score of 0.763 and the Conference track achieving an average F-score of 0.433. It also shows high recall in domains with strong terminological overlap, such as Circular Economy, where recall reaches 0.918. In addition, the system scales effectively for medium-sized ontologies through the use of an inverted index, enabling the Anatomy task to process approximately 9 million candidate pairs in 60.1 seconds. Overall, 41 out of 42 tasks were completed within the allocated time limits which demonstrate good general robustness.
 
-However, several limitations are also evident. Performance drops significantly for multilingual ontologies, where non-English labels in the Digital Humanities track lead to near-zero F-scores (0.000–0.207), reflecting the English bias of the underlying embedding and language models. Scalability becomes a major constraint for large ontologies, as embedding candidate limits result in near-zero recall when processing ontologies with more than 50,000 classes. Instance-level alignment in large knowledge graphs further exposes the need for more advanced blocking strategies beyond lexical indexing. Finally, the use of LLM-based matching introduces a tendency toward over-confirmation that increase the number of false positives, although this issue is partially mitigated by a secondary embedding-based filtering step.
+However, several limitations are also evident. Performance drops significantly for multilingual ontologies, where non-English labels in the Digital Humanities track lead to near-zero F-scores (0.000–0.207), reflecting the English bias of the underlying embedding and language models. Scalability becomes a major constraint for large ontologies, as embedding candidate limits result in near-zero recall when processing ontologies with more than 50,000 classes. Instance-level alignment in large knowledge graphs further expose the need for more advanced blocking strategies beyond lexical indexing. Finally, the use of LLM-based matching introduces a tendency toward over-confirmation that increases the number of false positives, although this issue is partially mitigated by a secondary embedding-based filtering step.
 
