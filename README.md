@@ -55,5 +55,5 @@ al:hasDiet and al:hasConservationStatus were used to retrieve ml: instance data.
 
 Note: The remaining 3 instances (Bonobo, Axolotl, and GiantSquid) did not appear because they lack complete property assertions in M_Ontology. **SPARQL requires all triple patterns** to be satisfied simultaneously.
 
-### Discussion and evaluate the results of MLOA system with the OAEI dataset reference alignment (Subtask OA.4)
+### Discussion and Evaluation of MLOA System Results against OAEI Reference Alignments (Subtask OA.4)
 
