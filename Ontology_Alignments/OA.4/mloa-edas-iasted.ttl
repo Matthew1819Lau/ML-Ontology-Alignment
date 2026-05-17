@@ -1,0 +1,45 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://edas#Attendee> rdfs:subClassOf <http://iasted#Delegate> .
+
+<http://edas#Author> owl:equivalentClass <http://iasted#Author> .
+
+<http://edas#CoffeeBreak> owl:equivalentClass <http://iasted#Coffee_break> .
+
+<http://edas#Conference> owl:equivalentClass <http://iasted#Conference_city> .
+
+<http://edas#ConferenceChair> owl:equivalentClass <http://iasted#Conference_hall> .
+
+<http://edas#ConferenceVenuePlace> rdfs:subClassOf <http://iasted#Conference_hall> .
+
+<http://edas#Document> owl:equivalentClass <http://iasted#Document> .
+
+<http://edas#MealMenu> rdfs:subClassOf <http://iasted#Payment_document> .
+
+<http://edas#Mexico> owl:sameAs <http://iasted#Mexico> .
+
+<http://edas#PaperPresentation> owl:equivalentClass <http://iasted#Presentation> .
+
+<http://edas#Person> owl:equivalentClass <http://iasted#Person> .
+
+<http://edas#Place> owl:equivalentClass <http://iasted#Place> .
+
+<http://edas#Presenter> owl:equivalentClass <http://iasted#Presenter_city> .
+
+<http://edas#Review> owl:equivalentClass <http://iasted#Review> .
+
+<http://edas#ReviewForm> owl:equivalentClass <http://iasted#Review> .
+
+<http://edas#ReviewRating> owl:equivalentClass <http://iasted#Review> .
+
+<http://edas#Reviewer> owl:equivalentClass <http://iasted#Reviewer> .
+
+<http://edas#SessionChair> owl:equivalentClass <http://iasted#Session_chair> .
+
+<http://edas#Sponsorship> owl:equivalentClass <http://iasted#Sponsor> .
+
+<http://edas#hasSubmissionDeadline> owl:equivalentProperty <http://iasted#Submissions_deadline> .
+
+<http://edas#registrationDueOn> owl:equivalentProperty <http://iasted#Registration> .
+

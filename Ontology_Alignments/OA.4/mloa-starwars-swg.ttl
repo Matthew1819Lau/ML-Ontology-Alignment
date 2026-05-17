@@ -1,0 +1,332 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Ace_Squadron> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Squadron> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Aggressor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/TIE_Aggressor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Alliance_Cold_Weather_Belt> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Alliance_Cold_Weather_Belt> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Antilles_BioGen> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Antilles_BioGen_980_Series> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Arak-series_probe_droid> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Arakyd_Probe_Droid> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Architect_Droid_AD> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Architect> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/BL-28_blaster_rifle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/A280_Blaster_Rifle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Bantha_Platter> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bantha_Butter> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Bantha_jerky> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bantha> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Bantha_tick> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bantha> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Beetle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Beetle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Bespin_Port> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bespin_Port> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Blood_Crow> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Blood_Chowder> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Bruce_McBrain> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bruce_McBrain> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Caramelized_Pkneb> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Caramelized_Pkneb> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Carbonite> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Carbonite_steel> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Agents_of_the_Rebel_Alliance> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Rebel_Alliance> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Armor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Armor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Articles> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Articles> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Battle_droids> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Droids> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Battles_of_the_Galactic_Civil_War> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Galactic_Civil_War> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Carbines> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Carbines> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Cities_on_Corellia> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Corellia_cities> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_Corellia> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Corellia_creatures> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_Dantooine> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Dantooine_creatures> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_Lok> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Lok_creatures> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_Talus> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Talus_creatures> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Creatures_of_the_Kashyyyk_system> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Kashyyyk_Creatures> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Dark_Jedi> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Jedi> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Droid_parts> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Droid_components> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Events_of_the_Galactic_Civil_War> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Galactic_Civil_War> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Food> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Food> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Galactic_Civil_War> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Galactic_Civil_War> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Galactic_Empire> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Galactic_Empire> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_from_Star_Wars:_Galactic_Files> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Star_Wars_Galaxies_images> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_from_Star_Wars_Galaxies> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Star_Wars_Galaxies_images> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_from_Star_Wars_Galaxy> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Star_Wars_Galaxies_images> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_of_Exar_Kun> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Exar_Kun_images> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_of_jewelry> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Image_-_Jewelry> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Images_of_lightsaber_crystals> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Lightsaber_Crystals> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Imperial_Navy_pilots> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Imperial_Pilot> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Metals> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Metals> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Naboo_system> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Naboo_system> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Planets> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Planets> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Political_factions> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Factions> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Power_droids> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Droids> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Rebel_Alliance_organizations> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Rebel_Alliance> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Rori_locations> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Rori_cities> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Star_Wars_Galaxies> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Star_Wars_Galaxies_images> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Steels> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Steels> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Talus_locations> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Talus_cities> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Vehicles> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Vehicles> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Category:Waters> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Category:Waters> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Central_volcano> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/The_Central_Volcano> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Chemical_bomb> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Chemical> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Choku> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Choku> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Commando_pistol> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Commando> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Corellia_Control> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Corellia> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Corellia_Ho!> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Corellia> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Corellian_Arms> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Corellian_Ale> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Coret_Bhan> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Coret_Bhan_(card)> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Crystal_Forests> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Crystal_Flats> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/DC-15A_blaster_rifle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/DC-15_Rifle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/DC-15x_sniper_rifle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/DC-15_Rifle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/DT-57_heavy_blaster_pistol> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/DL-T_Heavy_Blaster_Pistol> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/DXR6_heavy_carbine> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/DXR6_Heavy_Carbine> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Darth_Vader%27s_armor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Darth_Vader> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Darth_Vader_1:_Vader> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Darth_Vader> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Deflector_shield> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Deflector_Shield_Projector_Plate> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Deflector_shield_generator_dome> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Deflector_Shield_Generator_-_Particle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Desert_Son> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Desert_Demons> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Dewback_steak> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Dewback> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Doonium> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Doonium_iron> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Droid_Lab> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Droid> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Droideka_Delta> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Droideka> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Durni> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Durni> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Dweezel> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Dweezel> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/E-Web_rifle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/E-Web_Rifle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Emperor%27s_Hand> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Emperor%27s_Hand_(card)> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Eta-5_interceptor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Eta-2_Actis_Interceptor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Fast_draw> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Fast_Draw_(card)> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Field_generator> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Shield_generator> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Find_the_Force> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Find_the_Source> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Firrerreo> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Firrerreo> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Fishing_pole> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Fishing> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Fixer> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Fixer_One> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Flewt> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Flewt> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Flower_Queen> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Flower> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Force_healing/Legends> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Force_Healing> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Galactic_Senate_(New_Republic)> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Galactic_Senate> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Green_Four> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Green> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Green_Six> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Green> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Green_milk> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Green> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Grenz_Zittoun> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Grenz_Zittoun> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Hair_trigger> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Hair_Trigger_(card)> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Heavy_weapon_specialist> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Heavy_weapon> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Humbaba> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Humbaba> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Hurlothrombic_gas> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Hurlothrombic_inert_gas> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Hutt_battle_armor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Battle_armor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Ikopi> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Ikopi> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Ikt> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Ikt> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Imperial_Special_Forces> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Imperial_Special_Forces:_Operation_Take_Down> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Imperial_paratrooper_force> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Imperial_Stormtrooper_(card)> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Infiltrator> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Infiltrator_Leggings> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Interceptor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/TIE_Interceptor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Jabba%27s_Palace_Limited> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Jabba%27s_Palace> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/KSE_Firespray> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/KSE_Firespray> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Karatha_system> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Karthakk_system> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Karkan_ribene> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Karkan_Ribenes> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Kashyyyk_clarion> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Kashyyyk> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Kashyyyk_long-gun> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Kashyyyk> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Kashyyyk_wheat> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Kashyyyk> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Krayt_dragon> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Krayt_Dragon> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Lantern> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Lantern_Bird> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Leia_Organa%27s_shuttle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Leia_Organa> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Lightning_beam_cannon> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Lightning_Beam_Cannon> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Loruna_Scathe> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Loruna_Scathe> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Luke_Skywalker%27s_Walkabout> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Luke_Skywalker> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Luke_Skywalker%27s_compass> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Luke_Skywalker> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Luke_Skywalker%27s_freighter> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Luke_Skywalker> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Luke_Skywalker/Legends> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Luke_Skywalker> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Massassi_Temple> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Massassi_Temple> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mon_Calamari_Rangers> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mon_Calamari> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mon_Calamari_Resistance> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mon_Calamari> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mon_Mothma/Legends> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mon_Mothma> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Mynock_stew> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Mynock> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Nut-beetle> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Beetle> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Obi-Wan_Kenobi%27s_taskforce> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Obi-Wan_Kenobi> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Officer_corps> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Officer> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Old_Mankoo> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Old_Man> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Power_damper> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Power_Hammer> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Proton_charge> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Proton_Chair> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Quadranium> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Quadranium_steel> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Quenker> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Quenker> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/RPS-6_rocket_launcher> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Rocket_Launcher> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Rebel_cell> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Rebel_Alliance> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Red_Hydra_Z-5> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Red_Hydra_Z-5> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Ree-Yees> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Ree-Yees> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Republic_police_gunship> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Republic_Gunship> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Rodian_rumba> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Rodian> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Seeker_(droid)> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Seeker_Droid> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Ski_battle_droid> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/B1_battle_droid> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Spined_puc> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Spined_Puc> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Steel> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Steel> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Stormtrooper_armor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Stormtrooper_armor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Sullustan_wine> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Sullustan> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/TIE_fighter_simulator> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/TIE_Fighter> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Tatoo_system/Legends> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Tatoo_system> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Tatooine_blues> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Tatooine> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Tatooine_tree> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Tatooine> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/The_Beastmaster!> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/The_Man-eater> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/The_Bounty_Hunter> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Bounty_Hunter> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/The_Face_of_Evil> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Face_of_Evil> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/The_Smuggler> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Smuggler> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Third_Strike> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/The_Strike> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Trandoshan_slave_camp> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Trandoshan_slaver> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Trandoshan_sword> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Trandoshan> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Unkajo> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Unkajo> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/VT-49_Decimator> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/VT-49_Decimator> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Vakkar_system> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Karthakk_system> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Vayerbok> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Vayerbok> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Vinya_Maysor> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Vinya_Maysor> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Water_War> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Water> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Yavin_6> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Yavin_IV> .
+
+<http://dbkwik.webdatacommons.org/starwars.wikia.com/resource/Z2_stun_baton> owl:sameAs <http://dbkwik.webdatacommons.org/swg.wikia.com/resource/Stun_Baton> .
+

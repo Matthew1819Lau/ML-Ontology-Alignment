@@ -1,0 +1,4 @@
+query,animal,scientific_name,diet,conservation_status
+Query1_equivalentClass,GreyWolf,Canis lupus,Carnivore_diet,Least concern (LC)
+Query1_equivalentClass,BaldEagle,Hailaeetus leucocephalus,Carnivore_diet,Least concern
+Query1_equivalentClass,Tiger,Pathera tigris,Carnivore_diet,Endangered (EN)

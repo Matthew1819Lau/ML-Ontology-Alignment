@@ -1,0 +1,26 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Animal> owl:equivalentClass <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Animal> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Carnivora> owl:equivalentClass <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Carnivore> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/CarnivoreDiet> owl:equivalentClass <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Carnivore> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/Habitat> owl:equivalentClass <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Habitat> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/HerbivoreDiet> owl:equivalentClass <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Herbivore> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/OmnivoreDiet> owl:equivalentClass <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Omnivore> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasConservationStatus> owl:equivalentProperty <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/hasConservationStatus> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasDiet> owl:equivalentProperty <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/hasDiet> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasHabitat> owl:equivalentProperty <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/Habitat> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasLIfespan> owl:equivalentProperty <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/hasLifespan> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasScientificName> owl:equivalentProperty <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/hasScientificSpeciesName> .
+
+<http://www.city.ac.uk/inm713-in3067/2026/Matthew_Lau/hasTopSpeed> owl:equivalentProperty <http://www.city.ac.uk/inm713-in3067/2026/astha_limbu/hasSpeed> .
+

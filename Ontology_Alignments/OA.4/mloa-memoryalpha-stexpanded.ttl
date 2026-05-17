@@ -1,0 +1,2188 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/13th_century> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/19th_century> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/15th_century> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/25th_century> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1956> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1956> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1957> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1957> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1962> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1962> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1968> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1968> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1970> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1970> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1970s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1970s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1980s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1980s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1988> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1988> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1990s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1990s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1991> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1991> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/1997> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/1997> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2001_(production)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2001_fan_productions> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2007> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2007> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2013> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2013> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2017> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2017> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2020s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2020s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2027> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2027> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2033> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2033> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2051> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2051> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2055> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2055> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2060s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2060s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2061> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2061> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2064> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2064> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2080s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2080s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2105> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2105> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2113> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2113> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2114> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2114> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2115> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2115> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2117> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2117> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2123> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2123> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2124> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2124> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2126> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2126> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2133> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2133> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2137> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2137> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2138> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2138> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2139> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2139> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2140> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2140> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2147> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2147> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2151> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2151> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2158> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2158> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2168> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2168> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2177> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2177> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2189> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2189> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2196> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2196> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2203> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2203> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2209> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2209> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2214> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2214> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2223> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2223> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2238> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2238> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2245> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2245> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2260> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2260> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2262> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2262> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2263> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2263> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2271> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2271> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2281> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2281> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2282> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2282> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2283> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2283> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2285> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2285> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2289> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2289> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2292> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2292> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2300> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2300> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2327> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2327> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2339> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2339> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2341> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2341> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2344> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2344> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2351> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2351> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2352> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2352> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2355> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2355> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2360s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2360s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2361> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2361> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2370s> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2370s> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2382> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2382> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2385> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2385> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2392> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2392> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2398> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2398> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/2399> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/2399> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/23rd_century> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/23rd_century> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/30th_century> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/30th_century> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Acamarian_outpost> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Acamarian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Achilles_(892-IV)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Achilles> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Actor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Actor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Adjutant> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Adjutant> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Africa> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Africa> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/African_Confederation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/African_Confederation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Aftermath> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Aftermath_(STP)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Aircraft> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Aircraft_carrier> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Airman> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Airman> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Akharin> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Akharin> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Akira> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Akira> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Akira_class_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Akira_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Akritirian> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Akritirian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alcohol> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alcohol> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alden> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alden> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alex_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alexei_Obrenovic_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alexander> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alexander_Cray> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alexander_Rozhenko> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alexander_Rozhenko> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alliance_(nation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alliance_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Alpha_VII> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alpha_Centauri_VII> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Altair_system> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_system> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Altair_water> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Altair_water> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Amanda_Grayson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Amanda_Grayson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ambassador-at-Large> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ambassador> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/American_Civil_War> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/American_Civil_War> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Amnesia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Amnesia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Anastasia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Anastasia_Volzhin> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Andorian_silk> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Andorian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Andorian_space> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Andorian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Andrew_Currie> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Andrew_Corrigan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Andromeda> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Andromeda_Numea> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antares_Ship_Yards> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antares_Ship_Yards> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antares_class_(Corvallen)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antares_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Anthropology> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Anthropology> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_explosion> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_injector> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_mine> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_pod> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_relay> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_spread> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Antimatter_weapon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Antimatter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Apollo_11> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Apollo_22> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Apollo_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Apollo_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Archanis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Archanis_sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Arcturus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Arcturus_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ariel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ariel_Cord> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Armageddon_Sky> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Armageddon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Armus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Armus> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Artificial_intelligence> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Artificial_intelligence> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Asia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Asia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Assimilation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Assimilation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Assimilation_profile> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Assimilation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Assimilation_tubule> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Assimilation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Asteroid-runner> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Asteroid> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Asteroid_belt> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Asteroid> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Astrometrics> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Astrometrics> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Atlantis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Atlantis> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Atlas> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Atlas> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Attack_fighter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Attack_fighter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Augment> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Augment> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Avenger> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Avenger> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Awakening_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Awakening_(LP_episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Away_team_report> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Away_team> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Azetbur> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Azetbur> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/B%27Etor_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/B%27Eryn_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ba%27ku_planet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ba%27ku_(planet)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Baguette> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Baguette> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bajor_II> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bajor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bajor_VI> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bajor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bajoran_Militia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bajoran_Militia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bajoran_Militia_uniform> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bajoran_Militia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bandit> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bandit> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Barisa_Prime> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Casperia_Prime> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Barnard%27s_Star> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Barnard%27s_Star> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Barstow> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Barstow> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Barzan_wormhole> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bajoran_wormhole> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Baseball_glove> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Baseball> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Altamid> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Eridam> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Avenal> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Axanar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Britain> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Xita> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Ceti_Alpha_V> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Getha> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Klach_D%27kel_Brakt> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Klach_D%27kel_Brakt> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Procyon_V> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Procyon_V> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Battle_of_Sector_001> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Battle_of_Sector_001> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Becky> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Becky> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Benzar> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Benzar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Beta_Wiltz_III> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Beta_II> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Betazoid> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Betazoid> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Blake> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Blake> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bolarus_IX> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bolarus_IX> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bonaventure> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bonaventure> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bonaventure_(C1-21)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bonaventure> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Borg_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Orion_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Borg_Collective> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Borg_Collective> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Borias_Cluster> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Borias_Cluster> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Boy_Scout> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Boy_Scouts> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Brad_Weston> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Brad_Stone> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Brax_(planet)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Breen_(planet)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Breen> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Breen> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Brian_Chin> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Brian_Childers> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Brian_Jacobs> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Adrian_Jacobs> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Bridge_officer%27s_log> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Bridge_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Brisbane> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Brisbane> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Broken_Bow> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Broken_Bow_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Brussels> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Brussels> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cait> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cait> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Canada_Post> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Canada> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Captain_of_engineering> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Captain_of_Engineering> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassia_III> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassia_Prime> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassia_Prime> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_Tribunal> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_destroyer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_dissident_movement> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian_dissident_movement> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_frigate> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_history> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_neck_trick> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian_neck_trick> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_ranks> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian_ranks> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cardassian_sector> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cardassian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Caretaker_(novel)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Caretaker_(MCNL)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Carl_Steven> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Carl_Stevens> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Carrie_Urzua> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Carrie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Carrington_Award> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Carrington_Award> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Casino> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Casino> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Agencies> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Agencies> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Animals> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Animals> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Athletes> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Athletes> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Augments> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Augments> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Bajoran_Militia_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Bajoran_Militia_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Bajorans> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Bajorans> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Capellans> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Capellans> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Cardassian_military_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Cardassian_military_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Ceremonies> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Ceremonies> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Chemical_compounds> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Chemical_compounds> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Colonies> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Colonies> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Communications_technology> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Communications_technology> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Dominion> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Dominion> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Dominion_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Dominion_starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Earth> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Earth> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Earth_conflicts> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Earth_conflicts> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Earth_geography> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Geography> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Earth_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Earth_starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Enterprise_(NX-01)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Enterprise_(NX-01)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Episodes> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Episodes> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Events> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Events> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Explosives> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Explosives> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Federation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Federation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Federation_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Federation_starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Fictional_characters> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Fictional_characters> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Geography> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Geography> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Gorn> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Gorn> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Governments> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Governments> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Haliians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Haliians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Hand-held_weapons> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Hand-held_weapons> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Illyrians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Illyrians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Ktarians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Ktarians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Legal_procedures> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Legal_procedures> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Lists> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Lists> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Maneuvers> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Maneuvers> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Materials> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Materials> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Medical_conditions> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Medical_conditions> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Mirror_universe_inhabitants> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Mirror_universe_people> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Moons> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Moons> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Music> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Music> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Musicians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Musicians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Nebulae> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Nebulae> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Nebulae_(retconned)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Nebulae> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Prisons_and_penal_colonies> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Prisons_and_penal_colonies> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Q_Continuum> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Q_Continuum> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Radiation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Radiation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Recreation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Recreation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Remans> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Remans> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Romulan_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Romulan_starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Saurians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Saurians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Security> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Security> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Star_Trek_series> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:The_Best_of_Trek_series> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Starfleet_personnel_(23rd_century)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Starfleet_personnel_(23rd_century)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Suliban> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Suliban> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Tellarites> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Tellarites> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Titles> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Titles> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:USS_Enterprise_(NCC-1701-A)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:USS_Enterprise_(NCC-1701-A)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:USS_Excelsior_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:USS_Excelsior_(NCC-2000)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Bolians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Bolians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Cardassians> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Cardassians> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Federation_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Federation_starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Romulan_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Romulan_starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Starfleet_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Starfleet_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Starfleet_personnel_(22nd_century)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Starfleet_personnel_(22nd_century)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_Vulcans> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Vulcans> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Unnamed_starships> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Starships> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Vulcan> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Vulcan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Category:Xindi> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Category:Xindi> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ceris> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/S%27Ceris> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ceti_Alpha_V> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ceti_Alpha_V> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chakotay> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chakotay> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Changeling> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Changeling> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Charles_Ingram> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Charles_Gray> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cheating> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cheating> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chicago> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chicago> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chief_engineer%27s_log> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chief_engineer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chief_engineering_officer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chief_engineer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chief_of_operations> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chief_of_Operations> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Christopher_Gilman> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Christopher_Truman> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Christopher_Held> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Christopher_Henderson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Christopher_Jude> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Christopher_Henderson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Christopher_Payne> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Christopher_Parks> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Christopher_Pelton> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Christopher_Hobson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Chroniton_torpedo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Chroniton> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Civilization_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Civilization> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Clarke> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Clarke> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_2_nebula> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nebula_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_3_probe> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Class_IX_probe> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_5_probe> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Class_IX_probe> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_9_nebula> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nebula_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_C> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Class_C_planet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Class_K> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Class_K_planet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Classification> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lyran_classification> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Claude> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Claude_Gable> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cleopatra> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cleopatra_Jacobs> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cloud> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cloud> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Coalition> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Coalition_War> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Coalition_of_Planets> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Coalition_of_Planets> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cochrane_(unit)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cochrane> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cochrane_family> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cochrane> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cold_Station_12_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cold_Station_12> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Column> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Column> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Combadge> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Combadge> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Comet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Comet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Command_Decisions> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Command_Decision> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Commander,_Starfleet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Command> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Communications_blackout> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Communications> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Communications_officer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Communications_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Computer_module> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Computer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Computer_program> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Computer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Computer_science> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Computer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Conference_room_5> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Conference_room> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Constitution_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Constellation_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Continent> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Continent> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Convergence_(omnibus)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Convergence> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Convoy_liaison_officer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Liaison_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cook_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Moscow_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Copernicus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Copernicus_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Corporal> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Corporal> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Corvette> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Corvette> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Court_martial> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Court-martial> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Crimson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Crimson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cumberland> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Cumberland> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Curtis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Curtis_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cutter_beam> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cutter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Cygnus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cygnus_Reach> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/D%27deridex_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/D%27deridex_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/D%27deridex_class_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/D%27deridex_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/D%27jarra> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/D%27jarra> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dabo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dabo> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Daedalus_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Daedalus_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Daedalus_class_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Daedalus_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dakar> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dakar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Damage_control_team> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Damage_control> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dark_Page_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dark_Angel_(TCE_episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Data> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Data> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dave_Bailey> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dave_Bailey> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dave_Rossi> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dave_Doss> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/David_A._McIntee> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/David_Stein> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/David_Mack> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/David_McKenzie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/David_Wendler> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/David_Renner> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Debbie_King> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Debbie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Debbie_Rush> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Debbie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Debt_of_Honor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/A_Debt_of_Honor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Decker_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denver_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Deep_Space_Station_K-7_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Deep_Space_Station_K-7> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Defense_perimeter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mars_Defense_Perimeter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Defiant_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Defiant_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Defiant_class_decks> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Defiant_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Delphic_Expanse> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Delphic_Expanse> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Delta> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Delta> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Delta_2> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Delta> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Delta_Quadrant_planets> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Delta_Quadrant> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Delta_Vega> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Delta_Vega> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Demotion> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Demotion> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Deneb_system> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denias_system> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Denmark> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denmark> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Denobulan_Infantry> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denobulan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Denobulan_lemur> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denobulan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Department_of_Investigation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Department_of_Temporal_Investigations> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Destiny> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Destiny> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Deus_ex_machina> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Deux_Ex_Machina> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Devore> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Devore> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Devos_II> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Devos_II> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Diplomatic_pressure> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Diplomatic_Process> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Directive_927> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Directive> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Doctor_of_Medicine> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Doctor_of_Medicine> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dominion_Headquarters> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dominion_Headquarters> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dominion_history> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dominion> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dominion_planets> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dominion> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Dyson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Dyson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/E._Robinson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/B.G._Robinson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Earth> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Earth> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Earth_Day> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Earth> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Edward_Penn> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Edward> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Edward_Regis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Edward> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Edward_Wiley> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Edward> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Egypt> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Egypt> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Emergency_Command_Hologram> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Emergency_Command_Hologram> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Emergency_Medical_Holographic_program> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Emergency_Medical_Holographic_program> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Emergency_Medical_Holographic_programs> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Emergency_Medical_Holographic_program> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Emperor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Emperor_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Empire> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Empire> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Empire_TV> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Empire> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Engineering_science> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Engineering> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Enterprise_(NX-01)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Enterprise_(NX-01)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Enterprise_Incidents> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Enterprise> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Enterprise_Log_2> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Enterprise> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Enterprise_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Enterprise_(II)_subclass> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Enterprise_shuttle_1> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Enterprise> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Environmental_relay_conduit> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Environmental_suit> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Epsilon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Epsilon_9> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Eugenics> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Eugenics_Wars> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ex_Machina> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Deux_Ex_Machina> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Excelsior_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Excelsior_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Excelsior_class_decks> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Excelsior_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Explorer_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Explorer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Fan_fiction> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Fan_fiction_timeline> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation-Sheliak_Conflict> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation-Gorn_Conflict> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_Commander> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_Special_Operations_Command> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_News_Service> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_News_Service> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_Science_Council> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_Council> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_members> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_members> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Federation_merchant_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Federation_Merchant_Service> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/First_Battle_of_Deep_Space_9> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/First_Battle_of_Deep_Space_9> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/First_Order> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/First_Order> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Fisher> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Fisher_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Fitzpatrick> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Fitzpatrick> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Flagship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Flagship> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Fleet_captain> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Fleet_captain> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Football> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Football> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Frigate> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Frigate> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Funeral> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Funeral> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Galaxy_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Galaxy_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Galileo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Galileo_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Galor_IV> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Galor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Galorndon_Core> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Galorndon_Core> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Garrett_Immel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Garrett> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Garrett_Wang> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Garrett> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gary_Tachell> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gary_Mitchell> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gas_grenade> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Grenade> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gaunt_Gary> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gaunt> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Generation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Generation_ship> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Genesis_(planet)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Genesis_(planet)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Geordi_La_Forge_(alias)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Geordi_La_Forge> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/George_Washington> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/George_Washington_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Georgia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Georgia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Georgia_Brown> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Georgia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Georgia_Tandy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Georgia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ghost> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ghost_Ship> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ghost_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Moscow_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ghost_Ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ghost_Ship> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ghosts_(IDW)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ghosts> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gol> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gol> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Governor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Governor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Grade_school> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Graduate_school> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gravity> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gravity> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gravity_boot> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gravity> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gravity_plate> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gravity> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Great_Barrier> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Great_Barrier_Rift> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Great_War> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Great_War> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Grenade> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Grenade> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Growth_tank> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Growth> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Gymnasium> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Gymnasium> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Harmonic_resonance_chamber> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Harmonic_resonance_chamber> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hayward> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hayward_Cooper> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Heavy_cruiser> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Heavy_cruiser> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Heinrich_James> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Heinrich_Kramer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Helen> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Helen_Noel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hephaestus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hephaestus_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hermes_Press> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hermes> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hideki_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hideki_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/High_Command> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/So%27ja_High_Command> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hikaru_Sulu> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hikaru_Sulu> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hikaru_Sulu_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hikaru_Sulu_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/History_Lesson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/History> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Holofilter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Holofilter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Holographic_programs> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Holographic_program> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Horatio> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Horatio> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Hospital_ward> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Hospital> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Howard_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Warrior_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Humanoid_species> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Humanoid> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/I%27m_a_doctor,_not_a...> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/I%27m_a_doctor,_not_a...> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/IKS_Klothos_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/IKS_Klothos> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/IKS_Maht-H%27a_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/IKS_Maht-H%27a> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/ISS_Enterprise> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/ISS_Enterprise> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/ISS_Enterprise_(NCC-1701)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/ISS_Enterprise_(NX-01)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/ISS_Enterprise_(NX-01)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Iccobar_(star)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Iccobar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ice_cream_scoop> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ice_cream> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ice_cream_sundae> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ice_cream> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Iconian> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Iconian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Illyrian> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Illyrian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Independence_Day> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Independence> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Insignia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Insignia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Intrepid> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Intrepid_type> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Intrepid_type_escape_pod> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Intrepid_type> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jack_Laufer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jack_Bauer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jack_London> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jack_Long> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jadzia_Dax_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jadzia_Dax_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jae_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Caine_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/James_Drake> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/James_Dvorak> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/James_I._Kirkland> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/James_T._Kirk> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/James_Lew> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/James_Leyton> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jana_Wallace> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nat_Wallace> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Janice_Lee_Raymond> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Janice_Rand> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Janice_R._Alexander> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Janice_Rand> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jefferson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jefferson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jem%27Hadar_battle_cruiser_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jem%27Hadar_light_battle_cruiser> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jem%27Hadar_fighter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jem%27Hadar_fighter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jem%27Hadar_ranks> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jem%27Hadar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jenkata_Nebula> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Venka_Nebula> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jennifer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jennifer_Su> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jennifer_Savidge> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jennifer_Su> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/John_Kelly> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/John_Kelley> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/John_Kim> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/John_Lim> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/John_Linares> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/John_Hardin> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/John_Shiban> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/John_Baldwin> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Johnny> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Johnny_Smith> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Joseph> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Joseph_Dilan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Jupiter_Station> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Jupiter_Station> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kahless_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kai_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kai> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kai> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kalandra_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kai_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kalandra_sector> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kalandra_sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Karemma> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Karemma> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kell_Perim> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kell_Perim> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kelly_(Lieutenant)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shelley_(Lieutenant)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kemocite> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kemocite> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kendra_Valley> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kendra_Valley_Massacre> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kenneth_Dalby> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kenneth_Dalby> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ketracel-white_facility> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ketracel-white> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kevin_Foster> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Evan_Foster> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kevin_P._Chilton> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kevin_Alton> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kevin_Pentalow> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kevin_Alton> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Khan_Noonien_Singh> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Khan_Noonien_Singh> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Khitomer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Khitomer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Khitomer_(star)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Khitomer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Khitomer_system> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Khitomer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kira_Nerys_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kira_Nerys_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon-Romulan_border> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Klingon-Romulan_border> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon_Bird-of-Prey> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Klingon_Bird-of-Prey> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon_Bird-of-Prey_(22nd_century)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Klingon_Bird-of-Prey> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon_law> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Klingon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon_prison_planet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Klingon_Prison_Fleet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Klingon_raider> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Klingon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Korinas> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Korinas> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Koth> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Koth> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Kryptonite> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Kryptonite> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Labor_camp> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Labor_camp> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lakat> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lakat> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lana_Taylor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Alan_Taylor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Landing_gear> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Landing_party> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Landing_pad> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Landing_party> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Landing_party> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Landing_party> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Language> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Language> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Laura_Van_Vleet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Laura_Lee> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lauren> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lauren_Tyler> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lawyer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lawyer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Legacy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Legacy_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Legate> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Legate> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Leonard_McCoy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Leonard_McCoy> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Leslie> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Leslie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Leslie_Hope> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Leslie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Leslie_Wong> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Leslie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lieutenant_commander> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lieutenant_commander> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lifeform> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lifeform> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Light_warp> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Light_warbird> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Light_year> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Light_year> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lisa_Cusak> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lisa_Cusak> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Listening_post> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Listening_post> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Lore> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lore> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Magellan> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Magellan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Makapa_bread> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mapa_bread> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Master_systems_display> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Master_systems_display> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Matthew> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Matthew_Cole> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Matthew_Kennedy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Matthew_Kent> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Maxwell_Burke> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Maxwell> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/McKinley_Rocket_Base_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/McKinley_Rocket_Base> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/McKinley_Station> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/McKinley_Station> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Medicine> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Medicine> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Megan_Delaney> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Megan_Delaney> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Merchantman_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Merchantman> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Merculite_rocket> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Merculite_rocket> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Mercury> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mercury_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Metaphasic_field> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Metaphasic_shield> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Avallon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Ayala> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Bair> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Sinclair> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Baxter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Baxter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Eddington> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Eddington> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Mahonen> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Neumann> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_O%27Brien> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Owens> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Owens> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Owens> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Stang> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Swanson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Stetson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Swanson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michael_Webb> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michael_Owens> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Michelle> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Michelle_Gale> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Mind_control> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mind_Control_Revolts> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Minefield> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Minefield> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Miral_Paris> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Miral_Paris> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Mirror_universe> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mirror_universe> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Mission_operations_station> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mission_operations> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Mohican> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mohican_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Molly_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Pollux_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Monica> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Monica_Covey> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Monk> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Monk> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Montana_Lions> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Montana> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Montgomery_Blair> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Montgomery> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Montgomery_Doohan> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Montgomery> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Montgomery_Scott> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Montgomery_Scott> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Morale_officer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Morale_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Morgan_Earp> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Morgan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Morgan_Jones> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Morgan_Bateson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Morgan_Kelly> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Morgan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Movie_night> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Movie_night> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Multiverse> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Multiverse> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Mutiny> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Mutiny> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/NCC-1718> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/NCC-1718> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nash_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Luna_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nausicaan_language> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nausicaan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nausicaan_raider> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nausicaan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nebula> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nebula> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nebula_class_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nebula_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nero> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nero> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Neutral_zone> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Neutral_Zone> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Neutron_star> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Neutron_star> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/New_Bajor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/New_Bajor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/New_Orleans_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/New_Orleans> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/New_York_Yacht> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/New_York> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nightingale_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Insignia_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nimitz_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nimitz_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nog> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nog> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Non-humanoid> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Humanoid> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nonaggression_pact> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Non-aggression_pact> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Norah_Satie> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Norah_Satie> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Norman> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Norman> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Norman_Hunte> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Norman> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nova_class_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nova_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Nyota_Uhura> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Nyota_Uhura_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/O-type_star> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Argo_type> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Obatta_Cluster> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lembatta_Cluster> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Objective_mode> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subjective_mode> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Officer_Exchange_Program> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Exchange_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Omega_IV> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Omega> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/One_One> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/One_of_One> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Orange_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Orlando_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Orion_(planet)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Coridan_(planet)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Orion_Ruse> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Orion> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Outpost_3> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Outpost> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Outpost_5> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Outpost> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Outpost_6> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Outpost> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Outpost_63> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Outpost> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Outpost_8> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Outpost> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paqu> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paqu> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_10> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_15> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_17> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_18> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_25> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_29> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_3> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_4> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_5> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paramount_Stage_7> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paramount> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paris_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/New_Paris_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paul_Dean> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/DePaul> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Paul_Pope> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Paul_Cooper> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Peter_Weller> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Peter_Lavelle> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Phage> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Phage> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Phase_inducer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Phase_inducer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Planet_Hell> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Planet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Planet_Ten> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Planet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Planet_killer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Planet_killer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Predator_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Predator_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Prefix> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Prefix_code> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Preservers> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Preservers> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Preservers_obelisk> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Preservers> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Primary_hull> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Primary_hull> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Prime_Directive_(novel)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Prime_Directive> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Prison_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Prison> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Probe_C> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Probe> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Promazine> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Promazine> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Prospero> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Prospero> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Protest> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Protest> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Pulse_cannon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Pulse_cannon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Pulsed_phase_cannon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Pulse_cannon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Q_Continuum_characters> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Q_Continuum> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Quark_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shark_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Queen_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denver_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Quetzalcoatl> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Quetzalcoatl_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Raider> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Raider> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ranger_7> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ranger> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rank> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rank> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rank_insignia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rank_insignia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Raven_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Denver_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Raymond_Boone> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Raymond_Boone> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Raymond_Boone_(Cardassian)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Raymond_Boone> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Raymond_King> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Raymond_Gatling> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rebecca_Sullivan> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rebecca_Sullivan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Red_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Intrepid_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Red_Alert_Chili> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Red_alert> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Registry> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Registry> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Relay_Station_001> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Relay_Station_221-A> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Relic_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cell_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Republic> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Republic> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Restoration> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Restoration> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Retirement_benefit> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Retirement> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Richard_Cansino> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Richard_Carlin> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Richard_Derr> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Richard_Berry> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Richard_Galen> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Richard_Garren> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Richard_Geary> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Richard_Garren> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rigel_III> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rigel_III> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rigel_VI> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rigel_VI> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rigelian_fever> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rigelian_fever> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Badami> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Day> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Bauer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Baker> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Becker> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Baker> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Budaska> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Day> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Cox> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Pachico> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Dawn> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Day> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_DeSoto> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_DeSoto> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Duncan_McNeill> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_McCall> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Hill> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Philip> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_McCall> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_McCall> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Robert_Scheerer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Robert_Shea> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Romulan_Bird-of-Prey_(23rd_century)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Romulan_Bird-of-Prey> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Romulan_Senate> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Romulan_Senate> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Romulan_Senate_members> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Romulan_Senate> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Romulan_Star_Empire> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Romulan_Star_Empire> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Romulan_cruiser> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Romulan_Crisis> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Romulus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Romulus> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Royal_Navy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Royal_Navy> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Rules_of_Acquisition_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Rules_of_Acquisition> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Running> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Running> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/S._Harrison> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Harrison> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/SS_Botany_Bay> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/SS_Botany_Bay> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/SS_Columbia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/SS_Columbia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/San_Diego> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/San_Diego> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sandy_Fries_(Captain)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sanders_(Captain)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sarah_April> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sarah_April> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sarajevo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Sarajevo> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sarek> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sarek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sarek_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shark_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sarina_Douglas> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sarina_Douglas> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Saurian_virus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Saurian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Science_fair> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Science_fair> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Scout_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Scout> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sculptor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sculptor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sculpture> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sculpture> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sean_Martinez> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sean_Marquez> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Second_Battle_of_Deep_Space_9> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Second_Battle_of_Deep_Space_9> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Second_officer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Second_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Second_officer%27s_science_log> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Second_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Secondary_hull> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Secondary_hull> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_006> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_005> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_1385> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_15> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_21505> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_1607> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_21305> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_21305> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_2158> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_21505> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_21947> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_22055> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_21305> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_22358> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_22309> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_22846> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_221-G> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_22855> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_221-G> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_23079> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_22309> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_32834> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_39542> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_41752> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_41753> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_492> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_500> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_005> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_64238> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_814> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_89102> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector_1045> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sector_949> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sector> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Security_seal> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Security_specialist> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Senior_officer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Senior_chief_petty_officer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sensor_grid> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sensor> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Seven_of_Nine_(novel)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Seven_of_Nine> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Shakaar> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shakaar_Edon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ships_of_the_Star_Fleet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ships_of_the_Star_Fleet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Shras> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shras> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Shuttlecraft> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shuttlecraft> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Shuttlecraft_log> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shuttlecraft> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sigma_Erandi_system> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sigma_Hydra_system> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sito_Jaxa> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sito_Jaxa> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sol> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sol> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Son%27a> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Son%27a> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/South_Africa> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/South_Africa> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sovereign_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sovereign> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Spacecraft_Resupply> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Spacecraft> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sphere> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sphere_911> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sphere_1> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sphere_911> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Spock_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Pollux_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Springfield> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Springfield_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star-Crossed> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Cross> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Fleet_Battle_Force> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Fleet_Battles> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek,_Issue_2> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek,_Issue_6> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Action!> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Avalon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Adventure_Gaming_in_the_Final_Frontier> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Final_Frontier> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Borg> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_G> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Crew> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Sarek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Deviations> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Civilizations> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Discovery> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Tales_of_Discovery> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Discovery_-_The_Official_Companion> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Discovery_(fan_fiction)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Discovery_calendars> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Tales_of_Discovery> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Early_Voyages> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Fearless> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Enterprise_(Pocket)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Enterprise-J> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Enterprise_(digital)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Enterprise-J> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Enterprise_(soundtracks)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Enterprise-J> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Enterprise_Calendar_(2003)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Enterprise-J> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Enterprise_calendars> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Enterprise-J> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Federation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Federation_One> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Federation_Science> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Federation_One> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Final_Frontier> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Final_Frontier> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Klingon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Remington> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Klingon_Academy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Remington> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Klingon_Empire> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_Online> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Legacy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Pegasus> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Manifest_Destiny,_Issue_1> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Destiny> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_New_Adventures,_Volume_2> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Adventure> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Prey> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Precious> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Return_of_The_Next_Generation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Rihannsu> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Marine> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Romulans> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Andromeda> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Special> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Special_Operations> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Stargazer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Mariner> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Strange_New_Worlds> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Brave_New_Worlds> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Adventure> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Adventure> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Animated_Series_(DVD)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Animated_Voyages> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Card_Game> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Shepard> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Game> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Prometheus> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Last_Generation_(omnibus)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_(game)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_A_Final_Unity> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Final_Frontier> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_Data_Box> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_Double_Helix> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_On_the_Line> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_Log_11> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_Log_5> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_Log_7> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_Stranded> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Next_Degradation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_-_The_Final_Frontier> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Final_Frontier> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_Companion> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Next_Generation_calendars> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Lost_Generation> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_The_Q_Conflict> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Conflictos> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Voyager_(LaserDisc)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Eras> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Voyager_(Malibu)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Voyager_(RPG)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Voyager_(comic)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Voyager_(RPG)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek:_Voyager_-_Main_Title> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Ultimate> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_(Leaf)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_(novel)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_-_Novelas> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_-_First_Edition> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Frontiers> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_-_Log_1> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_10> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_6> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_9> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Adventure> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Adventure> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Blueprints> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_Continues> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Classics> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Explorer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_FAQ_2.0> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Generations> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Generation_Fleet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Gift_Set> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Guru> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_G> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_II:_Biographies> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Eras> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Lives!> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_1> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_10> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_2> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_3> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_4> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_5> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Log_8> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Logs_4-6> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Night> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Nightingale> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Panic> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Reader> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_Renegade> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Revealed> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_Reviewed> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Scrabble> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Speaks> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_Trexels> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_V:_The_Final_Frontier_(Special_Edition)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Final_Frontier> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_convention> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_Constitution> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_deaths> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Star_Trek_is...> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek_is...> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_0834> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_343> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_1> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_17> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_10> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_10> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_118> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_11> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_173> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_17> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_173_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_17> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_174> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_17> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_19> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_193> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_21> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_21> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_24> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_2> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_243> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_43> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_32_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_32> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_36> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_3> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_4> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_4> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_4077> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_4> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_4112> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_11> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_414> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_414> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_46> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_46> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_515_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_515> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_53> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_5> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_67> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_6> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_6_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_6> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_78> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_78> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_83> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_8> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_84> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase_8> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starbase_Allen> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starbase> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Academy_characters> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Academy> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Charter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Headquarters> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Command_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Emergency_Medical_Course> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Medical_Center> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Fleets> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Third_Fleet> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Headquarters> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Headquarters> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Intelligence_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Intelligence> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Ranger_School> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Rangers> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Research_and_Development> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Research_and_Development> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_Tactical> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Tactical> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_brat> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_ranks> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_command_division_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_preliminary_examination> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_Bar_Examination> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_ranks_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_(mirror)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_uniform_(2350s-2370s)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_uniform_(2265-2270s)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_uniform_(late_2240s-2250s)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_uniform_(2265-2270s)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Starfleet_uniform_(mid_2270s)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Starfleet_uniform_(2265-2270s)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Stellar_cartography> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Stellar_cartography> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Steve_Bond> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Steve> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Steve_Burg> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Steve> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Steve_Pugh> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Steve> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Strange_New_World_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Brave_New_Worlds_(episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Structural_integrity_field> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Structural_integrity_field> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Sublight> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Sublight_gunship> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_axis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_beacon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace_weapon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_energy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_layer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace_relay> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_log> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_sandbar> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace_sandbar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_scan> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace_sandbar> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Subspace_transponder> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Subspace-aperture_transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Suliban_rifle> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Suliban> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Swarm_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Shark_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/T%27Lara> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Lara> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/T%27Plana-Hath_type_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/T%27Plana-Hath> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/T%27Pol> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/T%27Pol> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/T-Rogoran> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/T-Rogoran> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/T-cell> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cell> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tactical_display> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tactical_Eye_Display> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tagra_IV> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tagra_IV> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tank> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tank> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tantalus_V> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tantalus_field> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tantalus_field> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tantalus_field> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Taylor_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Titan_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Technician> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Technician> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tellar_Prime> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tellar_Prime> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tellarite> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tellarite> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tellarite_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tellarite> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tellarite_station> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tellarite> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Temporal_Cold_War> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Temporal_Cold_War> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Temporal_War> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Temporal_Cold_War> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Temporal_causality_loop> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Temporal_causality_loop> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Temporal_displacement_policy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Temporal_displacement> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Temporal_matrix> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Temporal_rift> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Terosa_Prime> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Terra_Prime> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Terry_Noel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Terry> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Best_of_Both_Worlds,_Part_II_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Tides_of_War,_Part_II_(LP_episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Best_of_Star_Trek_(Titan)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Best_of_Trek> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Better_Man> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Man> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Cage_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Eagle_(TCE_episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Captains_Close_Up> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Captain> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Chase_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Child_(Phase_II_episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Four_Years_War> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Four_Years_War> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Maquis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Maquis_Volunteer> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_New> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_Nest> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/The_Visitor_(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/The_White_Iris_(STC_episode)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Theodore_Roosevelt> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Theodore_Roosevelt> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/These_Are_the_Voyages..._(episode)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/These_Aren%27t_the_Voyages...> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tholian_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tholian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ticonderoga> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ticonderoga_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Time> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Time> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Time-travel_pod> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Time_travel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Titan_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Titan_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Titan_II> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Titan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Torpedo_tube> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Torpedo> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transphasic_torpedo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transphasic_torpedo> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transport_card> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transport> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter_burn> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter_chief> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter_circuit> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter_module> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter_phobia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transporter_simulation> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Transporter> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Transwarp_hub> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Borg_transwarp_hub> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Travis_Mayweather> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Travis_Mayweather> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Treaty_of_Organia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Treaty_of_Organia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Trek:_The_Printed_Adventures> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Star_Trek:_The_Intrepid_Adventures> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tret_Akleen> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tret_Akleen> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Tyler_Ott> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Tyler> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Type_11_shuttlecraft> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Type-11_shuttlecraft> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Type_3_phaser> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Type_3_phaser> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Type_4_deflector_shield> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Deflector_shield> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Type_8_shuttlecraft> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Type-11_shuttlecraft> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Typhon_Expanse> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Typhon_Expanse> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Akagi> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Akagi_(NCC-08)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Armstrong_(NCC-1769)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Armstrong_(NCC-962)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Atlantis> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Atlantis_(NCC-24851)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Billings> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Billings> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Cairo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Cairo> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Callisto> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Callisto_(RPG)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Carolina> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Carolina> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Chicago> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Chicago> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Clarke> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Clarke_(NCC-100)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Columbia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/SS_Columbia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Defiant_(NCC-1764)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Defiant_(NCC-1731)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Endeavour_(NCC-25330)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Endeavour_(NCC-76570)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(NCC-1701)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(NCC-1701-C)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701-C)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(NCC-1701-D)_conn_officers> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701-D)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(NCC-1701-D)_operations_officers> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701-D)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(NCC-1701-E)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(NCC-1701-E)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Enterprise_(XCV_330)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Enterprise_(CV-6)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Essex> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Essex_(NCC-173)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Excalibur> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Excalibur_(NCC-2910)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Excalibur_(NCC-1664)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Excalibur_(NCC-1664)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Excalibur_(NCC-26517)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Excalibur_(NCC-26517-A)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Excelsior_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Excelsior_(prototype)_personnel> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Fearless> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Fearless_(NCC-40)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Ganymede> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ganymede> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Grissom_(NCC-638)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Grissom_(NCC-638)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Hathaway> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Hathaway_(NCC-2593)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Hornet> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Hornet_(NCC-1714)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Intrepid_(NCC-1631)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Intrepid_(NCC-1708)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Intrepid_(NCC-74600)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Intrepid_II_(NCC-1730)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Lalo> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Lalo> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Livingston> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Livingston_(NCC-34099)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Magellan> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Magellan_(RPG)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Nautilus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Nautilus_(NCC-31910)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Potemkin_(NCC-1657)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Potemkin_(NCC-1657)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Prometheus> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Prometheus> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Reliant> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Reliant_(NCC-1305)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Saratoga_(2374)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Saratoga> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Saratoga_(NCC-1887)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Saratoga_(NCC-1867)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Saratoga_(NCC-1887)_personnel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Saratoga_(NCC-1867)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Sentinel> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Sentinel_(NCC-63088)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Springfield> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Springfield> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Stargazer> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Stargazer_(NCC-2893)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_T%27Plana-Hath> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/VSS_T%27Plana-Hath> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Thunderchild> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Thunderchild_(NCC-63549)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Tian_An_Men> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Tian_An_Men> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Valiant_(NCC-75418)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Valiant_(NCC-75418)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Valley_Forge> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Valley_Forge_(NCC-07)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Yamaguchi> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Yamaguchi_(NCC-26510)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Yellowstone> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Yellowstone_(NX-74751)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/USS_Yukon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/USS_Yukon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Ultritium> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Ultritium> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Uniform_code> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Uniform> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Union> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Union> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/United_Earth_Embassy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/United_Earth> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/University_of_Bajor> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/University_of_Cordas> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/University_of_Manitoba> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/University_of_Aldebaran> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Unroth> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Unroth_III> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Utopia_Planitia_Fleet_Yards> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Utopia_Planitia_Fleet_Yards> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Valo_I> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Valo_II> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Valo_II> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Valo_II> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vandor_system> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Pandora_system> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Velocity> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Velocity> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Virginia> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Virginia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Virginia_Darcy> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Virginia> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vor%27cha_class_model> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vor%27cha_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Voraxna> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Voraxna> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vosk> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vosk> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vulcan%27s_Glory> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vulcan%27s_Forge> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vulcan_(art)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vulcan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vulcan_chess> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vulcan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vulcan_mocha> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vulcan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vulcan_tea> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vulcan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Vulcan_ward> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Vulcan> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wagon_Train_to_the_Stars> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wagon_Train_to_the_Stars> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Waiting_list> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Waiting> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wallace_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Cell_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wedding_ball> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wedding> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wedding_cake> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wedding> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wedding_feast> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wedding> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wedding_ring> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wedding> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/White_(disambiguation)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Titan_(disambiguation)> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Whorfin_class> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Norin_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/William> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_May> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/William_Chapman> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_May> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/William_Marshall> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_May> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/William_Shakespeare> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_Shakespeare> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/William_Shakespeare_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_Shakespeare> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/William_Utay> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_May> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Williamson> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/William_Williamson> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wine> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wine> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Wing> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Wing> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Xindi-Aquatic_scout_ship> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Xindi-Aquatic> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Xon> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Xon> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Youngblood> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Youngblood_class> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Yridian> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Yridian> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Zefram_Cochrane_(mirror)> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Zefram_Cochrane> .
+
+<http://dbkwik.webdatacommons.org/memory-alpha.wikia.com/resource/Zhian%27tara> owl:sameAs <http://dbkwik.webdatacommons.org/stexpanded.wikia.com/resource/Zhian%27tara> .
+

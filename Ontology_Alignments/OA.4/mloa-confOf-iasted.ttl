@@ -1,0 +1,21 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://confOf#Author> owl:equivalentClass <http://iasted#Author> .
+
+<http://confOf#City> owl:equivalentClass <http://iasted#City> .
+
+<http://confOf#Conference> owl:equivalentClass <http://iasted#Conference_city> .
+
+<http://confOf#Person> owl:equivalentClass <http://iasted#Person> .
+
+<http://confOf#Submission_event> owl:equivalentClass <http://iasted#Submission> .
+
+<http://confOf#Trip> owl:equivalentClass <http://iasted#Trip_day> .
+
+<http://confOf#Tutorial> owl:equivalentClass <http://iasted#Tutorial> .
+
+<http://confOf#earlyRegistration> owl:equivalentProperty <http://iasted#Registration> .
+
+<http://confOf#writes> rdfs:subPropertyOf <http://iasted#write> .
+

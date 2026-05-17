@@ -1,0 +1,568 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Adolf_Hitler> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Adolf_Hitler_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Agent_33> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Agent_X> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Alphonso_Mackenzie> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Alphonso_Mackenzie> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Alphonso_Mackenzie/Quote> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Alphonso_Mackenzie> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Anthony_Russo> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Anthony_Russo> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Anvil> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Anvil> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Attack_on_Alphonso_Mackenzie> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Alphonso_Mackenzie> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Avengers:_Infinity_War> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Avengers:_Infinity_Vol_1_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Avengers_4> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Avengers_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Avengers_Initiative> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Avengers_Initiative_(Earth-13122)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ayo> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ayo> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Benjamin_Hinnant> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Benjamin_Franklin> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Monolith> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Goliath> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Panther_(film)> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Panther_(film)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Panther_(film)/Awards> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Panther_(film)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Panther_(film)/Home_Video> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Panther_(film)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Panther_(film)/Portal> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Panther_(film)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Panther_(film)/Trivia> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Panther_(film)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Black_Widow> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Black_Widow_Vol_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Brian_Danker> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Brian_Banner> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Brian_Glanney> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Brian_Banner> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Bride_of_Nine_Spiders> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Bride_of_Nine_Spiders_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Bullseye> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Bullseye_Killer> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Bushmaster_Rum> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Bushmaster> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Captain_America> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Captain_America_II> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Captain_America%27s_USO_Show> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/USS_Captain_America> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Characters_Killed_by_Vision> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Killed_by_Vision> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Gnucci_Crime_Family> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Gnucci_Crime_Family_members> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Russian_Armed_Forces_Officers> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Russian_Armed_Forces_members> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Category:Starforce_Members> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Category:Starforce_members> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Celeste> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Celeste_Cuckoo> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Celestials> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Celestials> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Chechnya> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Chechnya> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Chris_Adler> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Chris_Miller> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Chris_Allen> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Chris_Miller> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Columbia_University> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Columbia_University> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Contest_of_Champions> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Contest_of_Champions_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Cornelius_van_Lunt> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Cornelius_van_Lunt_(Earth-730784)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Crimson_Dynamo> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Crimson_Dynamo_(Earth-4400)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Czechoslovakia> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Czechoslovakia> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dallas_Wyatt> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dallas> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Daredevil> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Daredevil_Vol_1_8> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dark_Dimension> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dark_Dimension> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Darkforce_Dimension> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dark_Dimension> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/David_An> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/David_Banner> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/David_Miner> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/David_Banner> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/David_Wald> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/David_Walker> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Deathlok> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Deathlok_Vol_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Debrii> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Debrii> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Defenders> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/New_Defenders> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Denmark> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Denmark> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Destroyer> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Destroyer> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dixie_Lee> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dixie> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Doctor_Strange> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Doctor_Strange/Gallery> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Doctor_Strange:_Episode_0> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange:_Episode_0_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Doctor_Strange_(film)> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Doctor_Strange_(film)/Portal> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Doctor_Strange_(film)/Trivia> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Doctor_Strange> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dolores_Miller> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dolores_Miller_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Donald> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Donald_Trump> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Dora_Milaje> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dora_Milaje> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/DuRa_Brown> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Laura_Brown> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Earth> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Earth-55> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ego> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ego> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Elizabeth_Becka> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Elizabeth_Braddock_(Earth-161)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Elizabeth_Classen> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Elizabeth_Ross> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Elizabeth_Ness> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Elizabeth_Ross> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Elizabeth_Rabe> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Elizabeth_Ross> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Eternals> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Eternals_Vol_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Falcon> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Falcon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Fear_Dimension> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Dark_Dimension> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Fire_Dragon> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Red_Dragon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Flash_Thompson> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Flash_Thompson_Comic_Books> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Foster> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Foster> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Franz_Ferdinand> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Franz_Ferdinand_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/George_Harrison> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/George_Harrison_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ghost_Rider> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ghost_Rider_Vol_7> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Gideon_Emery> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Gideon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Gideon_Shaw> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Gideon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Golden_City> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Golden> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Golden_Sands> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Golden> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Golden_Tribe> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Golden> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Groot> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Groot> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2/Awards> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2/Gallery> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2/Portal> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2_(junior_novelization)> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2_Prelude> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guardians_of_the_Galaxy_Vol._2_Prelude_(collection)> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guardians_of_the_Galaxy_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Guardians_of_the_Galaxy_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Ant-Man> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Guardians_of_the_Galaxy_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Guardians_of_the_Galaxy> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Guardians_of_the_Galaxy_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Iron_Man> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Incredible_Hulk/Marvel%27s_Iron_Man_2_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Iron_Man_3> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Incredible_Hulk/Marvel%27s_Iron_Man_2_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agent_Carter_Season_One> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agents_of_S.H.I.E.L.D._Season_Three/Marvel%27s_Agent_Carter_Season_Two_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agent_Carter_Season_Two> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agents_of_S.H.I.E.L.D._Season_Three/Marvel%27s_Agent_Carter_Season_Two_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agents_of_S.H.I.E.L.D._Season_Four> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agents_of_S.H.I.E.L.D._Season_Three/Marvel%27s_Agent_Carter_Season_Two_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agents_of_S.H.I.E.L.D._Season_Three> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Agents_of_S.H.I.E.L.D._Season_Three/Marvel%27s_Agent_Carter_Season_Two_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_The_Avengers> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Guardians_of_the_Galaxy_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_The_Incredible_Hulk> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Incredible_Hulk/Marvel%27s_Iron_Man_2_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Thor> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Guidebook_to_the_Marvel_Cinematic_Universe_-_Marvel%27s_Guardians_of_the_Galaxy_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/HYDRA_Pistol> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hydra_Pistol> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Hadron_Enforcer> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hadron_Enforcer> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Hammer_Industries> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hammer_Industries_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Hildegund> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hildegund> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Hilliard_Zemo> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Hilliard_Zemo_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Holden_Radcliffe> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Holden_Radcliffe_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Honolulu_Police_Department> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Honolulu_Police_Department> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Howard_the_Duck> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Howard_the_Duck_Vol_5> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Infinity_Gauntlet> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Infinity_Gauntlet_Vol_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Inhumans> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Inhumans_Vol_4> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Invaders> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Invaders_Vol_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man:_Security_Measures> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man:_Security_Measures_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_2/Awards> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_2/Trivia> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_2:_Nick_Fury:_Director_of_S.H.I.E.L.D.> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man:_Director_of_S.H.I.E.L.D._Vol_1_29> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_2_(book)> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_3> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_I> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_IX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_III> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_IX> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_IX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_V> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_VI> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_VIII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_X> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XI_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XI> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XI_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XIII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXII_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XIV> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XI_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XLII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXII_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XLVII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XVI> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XVII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XVIII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_VII_(Earth-80920)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XX> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXV_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXIII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXII_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXIV> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXII_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXIX> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXXIX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXV> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXV_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXVI> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXV_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXVIII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXII_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXX> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXXIX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXXI> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXXIX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXXII> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXII_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXXIX> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXXIX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Iron_Man_Armor:_Mark_XXXV> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Iron_Man_Armor_MK_XXXIX_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Italy> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Italy> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jackson_Brice> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jackson_Brice_(Earth-26496)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/James_Montgomery_Falsworth> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/James_Montgomery_Falsworth_(Earth-TRN562)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jan_Jericho> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jericho> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Janet_van_Dyne> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Janet_van_Dyne_(Earth-8234)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jenna-Louise_Coleman> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jenna_Cole> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jennifer_Finley> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jennifer_Kale> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jennifer_Kim> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jennifer_Kale> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jessica_Jones> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jessica_Jones_Vol_1_8> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/John_Anderson> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_Anderson_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/John_Atkin> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_King> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/John_Curran> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/John_Rayburn> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jordan> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jordan_Boone> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Jose_Molina> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Jorge_Molina> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joseph_Bauer> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Joseph> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joseph_Long> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Joseph> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joseph_Pike> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Joseph_Pike> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joseph_Ragno> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Joseph> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Joseph_White> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Joseph> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Junior_Juniper> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Junior_Juniper> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Kallusians> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Kallusians> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Kerry_Condon> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Kerry_Dowenn> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/King_Cobra> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/King_Cobra> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Landman_and_Zack> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Landman_and_Zack_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Lars> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/A%27Lars> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Leland_Owlsley> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Leland_Owlsley_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Living_Laser> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Living_Mask> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/London_Sanctum> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/London_Sanctum> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Los_Angeles_Bus_Depot> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Los_Angeles> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Luke_Cage> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Luke_Cage> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Madripoor> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Madripoor> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Martha> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Martha_Poole> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Martin_Poole> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Martha_Poole> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Marvel%27s_A.K.A._Jessica_Jones:_Season_One> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Marvel%27s_Jessica_Jones_Season_2_7> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Masters_of_the_Mystic_Arts> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Masters_of_the_Mystic_Arts_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Melvin_Potter> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Melvin_Potter_(Earth-82588)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Metropolitan_Police_Department> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Metropolitan_Police_Department_(Counter-Earth)_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mexico> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mexico_City> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Michael_Giacchino> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Michael_Hoskin> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Michael_Koske> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Michael_Hoskin> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Michael_Rooker> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Michael_Tucker> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Michael_Ryan> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Michael_Ryan/Gallery> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Michigan> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Michigan_Avenue> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Milwaukee> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Milwaukee> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mitchell_Carson> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mitchell_Carson_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mongolia> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mongolia> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Monica_Rambeau> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Monica_Rambeau_(Earth-669)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Monte_Carlo> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Monte_Carlo> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mortimer_Hayes> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mortimer_Hayes_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Mouse_Hole> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Mouse> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nathan_Barnatt> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nathan_Garrett> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nelson_and_Murdock> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nelson_and_Murdock> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nelson_and_Murdock_Law_Office> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nelson_and_Murdock> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nelson_v._Murdock> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nelson_and_Murdock> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nesbitt> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nesbitt> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/New_Delhi> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/New_Delhi> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/New_Jersey> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/New_Jersey_Turnpike> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/New_Warriors> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/New_Warriors_Vol_2_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nick_Fury> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nick_Fury_Vol_1_6> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Nigeria> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Nigeria> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Night_Thrasher> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Night_Thrasher_Vol_1_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Noah_Burstein> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Noah_Burstein_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Passaic> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Passaic> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Peggy_Carter> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Peggy_Carter> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Peggy_Carter%27s_Husband> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Peggy_Carter> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Pennsylvania> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Pennsylvania_Avenue> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Pepper_Potts> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Pepper_Potts> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Pepper_Potts/Quote> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Pepper_Potts> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Project_Rebirth> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Project_Rebirth_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Proton_Cannon> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Protonic_Cannon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Punisher> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Punisher> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Rachel_Leighton> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Rachel_Leighton_(Earth-1610)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Randall_Park> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Randall_Darby> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Red_Skull> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Red_Skull_Vol_1_3> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Retreat> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Retreat> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Rhomann_Dey> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Rhomann_Dey%27s_Ship> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Rhomann_Dey%27s_Wife> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Rhomann_Dey%27s_Ship> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Harmon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Frampton> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Frampton_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Par> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Harmon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Pearson> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Harmon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Wagner> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richmond_Wagner_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Richard_Wharton> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Richard_Harmon> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Ringmaster> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Ringmaster> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Robert> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Robert_McCoy> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Rocket_Raccoon> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Rocket_Raccoon_Vol_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Roscoe_Sweeney> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Roscoe_Sweeney_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Samuel_Sterns> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Samuel_Sterns_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sanctuary> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Sanctuary_(Planet)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Saul> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Saul> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Scarlet_Witch> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Scarlet_Witch_Vol_2_15> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Schutzstaffel> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Schutzstaffel_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Secret_Warriors> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Secret_Warriors_Vol_1_5> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Serpent_Society> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Serpent_Society_(Earth-33900)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Seymour_O%27Reilly> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Seymour_O%27Reilly_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sharon_Carter> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Sharon_Carter_(Earth-982)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Shawna_Lynde> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Shawna_Lynde_(Earth-616)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Simon_Williams> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Simon_Williams_(Earth-2149)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Sleipnir> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Sleipnir> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Soul_Forge> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Soul_Gem> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Speedball> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Speedball_Vol_1_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Spider-Drone> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Spider-Clone> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Spider-Man> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Spider-Man_films> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Spider-Man_Homecoming:_Fight_or_Flight> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Spider-Man_Homecoming:_Fight_or_Flight_Vol_1_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Star-Lord> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Star-Lord_Vol_2_2> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Stark_Industries> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Stark_Industries_(Earth-9591)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Stephen_King> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Stephen_Hawking> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Tales_of_Suspense> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Tales_of_Suspense_Vol_1_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Thaddeus_Ross> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Thaddeus_Ross_(Earth-721)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/The_Cool_Kids> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/The_Kid> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/The_Incredible_Hulk> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/The_Incredible_Hulk_(UK)_Vol_2_14> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/The_Punisher> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Punisher> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Thor,_The_Mighty_Avenger> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Thor:_The_Mighty_Avenger_Vol_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Thor:_Crown_of_Fools> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Thor:_Crown_of_Fools_Vol_1_1> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Titanium_Man_Armor> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Titanium_Man_Armor_(Bullski%27s)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Tokyo> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Tokyo> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Toolbox> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Toolbox> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Tucson> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Tucson> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Valkyries> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Valkyries> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Vasily_Karpov> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Vasily_Karpov> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Venice> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Venice_Beach> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Victoria_Hand> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Victoria_Hand_(Earth-61112)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/War_Machine> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/War_Machine_Vol_2_10> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/War_Machine_Armor:_Mark_I> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/War_Machine_Armor_MK_II> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/War_Machine_Armor:_Mark_III> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/War_Machine_Armor_MK_II> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/War_Machine_Armor:_Mark_IV> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/War_Machine_Armor_MK_II> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Watts> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Watts> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Wild_Red_Hawks> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wild_Red_Hawks_(Earth-199999)> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Wilson> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Wilson_Allan> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Winter_Soldier> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Winter_Soldier_Vol_1_4> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Winter_Soldier_Book> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Winter_Soldier_Comic_Books> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Winter_Soldiers> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Winter_Soldier_Vol_1_4> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Yaka_Arrow_Controller> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Yaka_Arrow_Controller> .
+
+<http://dbkwik.webdatacommons.org/marvelcinematicuniverse.wikia.com/resource/Zephyr_One> owl:sameAs <http://dbkwik.webdatacommons.org/marvel.wikia.com/resource/Zephyr> .
+

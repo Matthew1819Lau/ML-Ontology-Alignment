@@ -1,0 +1,4 @@
+query,animal,scientific_name,diet,conservation_status
+Query2_equivalentProperty,BaldEagle,N/A,Carnivore_diet,Least concern
+Query2_equivalentProperty,GreyWolf,N/A,Carnivore_diet,Least concern (LC)
+Query2_equivalentProperty,Tiger,N/A,Carnivore_diet,Endangered (EN)

@@ -1,0 +1,45 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://cmt#Author> owl:equivalentClass <http://edas#Author> .
+
+<http://cmt#Chairman> rdfs:subClassOf <http://edas#SessionChair> .
+
+<http://cmt#Co-author> owl:equivalentClass <http://edas#Author> .
+
+<http://cmt#Conference> owl:equivalentClass <http://edas#Conference> .
+
+<http://cmt#ConferenceChair> owl:equivalentClass <http://edas#ConferenceChair> .
+
+<http://cmt#ConferenceMember> owl:equivalentClass <http://edas#Conference> .
+
+<http://cmt#Document> owl:equivalentClass <http://edas#Document> .
+
+<http://cmt#Meta-Reviewer> owl:equivalentClass <http://edas#Reviewer> .
+
+<http://cmt#Paper> owl:equivalentClass <http://edas#Paper> .
+
+<http://cmt#PaperAbstract> rdfs:subClassOf <http://edas#ActivePaper> .
+
+<http://cmt#PaperFullVersion> rdfs:subClassOf <http://edas#ActivePaper> .
+
+<http://cmt#Person> owl:equivalentClass <http://edas#Person> .
+
+<http://cmt#ProgramCommitteeMember> rdfs:subClassOf <http://edas#TPCMember> .
+
+<http://cmt#Review> owl:equivalentClass <http://edas#Review> .
+
+<http://cmt#Reviewer> owl:equivalentClass <http://edas#Reviewer> .
+
+<http://cmt#acceptPaper> owl:equivalentProperty <http://edas#AcceptedPaper> .
+
+<http://cmt#endReview> owl:equivalentProperty <http://edas#Review> .
+
+<http://cmt#hasAuthor> owl:equivalentProperty <http://edas#Author> .
+
+<http://cmt#paperID> owl:equivalentProperty <http://edas#Paper> .
+
+<http://cmt#rejectPaper> owl:equivalentProperty <http://edas#RejectedPaper> .
+
+<http://cmt#writtenBy> owl:equivalentProperty <http://edas#isWrittenBy> .
+

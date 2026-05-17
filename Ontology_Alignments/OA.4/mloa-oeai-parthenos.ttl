@@ -1,0 +1,4 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<https://vocabs.acdh.oeaw.ac.at/oeai-cultural-periods/concept23256> owl:sameAs <https://isl.ics.forth.gr/parthenos_vocabularies/Concept/7130> .
+
