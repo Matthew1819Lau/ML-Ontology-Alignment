@@ -73,20 +73,23 @@ The system achieved the highest Recall across all tracks (0.938), successfully i
 #### Anatomy Track (1/1 completed, F=0.763, time 60.1s) — Best Result
 The Anatomy track produced the strongest results across all tracks (F = 0.763), with well-balanced Precision (0.787) and Recall (0.741). The human–mouse alignment task involved matching 3,304 human anatomy classes against 2,744 mouse anatomy classes which approximately 9 million potential pairwise comparisons even though it was completed in just 60.1 seconds. This efficiency is directly attributable to the **inverted index scalability technique**, which **significantly reduced the comparison space**. Standardised biomedical terminology consistent across species ontologies enabled reliable lexical and embedding-based matching.
 
-#### Bio-ML Track (5/5 completed, Avg F=0.076, time 4999,9s ~1 hours 23 mins)
+#### Bio-ML Track (5/5 completed, Avg F=0.076, time 4999,9s ~1 hour 23 mins)
 The Bio-ML track revealed the primary scalability limitation of the MLOA system. Large-scale biomedical ontologies (SNOMED, FMA, and NCIT) containing over **100,000 classes exceeded the system’s embedding candidate limit**, resulting in **near-zero recall across most tasks**.
 
 The snomed.body–fma.body task (1,165.7s) achieved a recall of 0.000, indicating that the majority of correct mappings were not included within the evaluated candidate set. The best-performing task, snomed.pharm–ncit.pharm, achieved an F-score of 0.164 and involved a smaller pharmaceutical subset with more standardised terminology.
 
-#### Knowledge Graph Track (4/5 completed, Avg F=0.074, time 9147.4s ~2.5 hors)
+#### Knowledge Graph Track (4/5 completed, Avg F=0.074, time 9147.4s ~2.5 hours)
 The Knowledge Graph track presented the most challenging alignment scenarios, involving very large knowledge graphs (memoryalpha 349MB and starwars 1,048MB) with both schema-level and instance-level entities.
 
 To maximise coverage within computational constraints, the following strategies were applied:
 
-**Scalability technique**: An **inverted index** was used to reduce brute-force candidate comparisons, enabling the system to process large knowledge graph ontologies within a **reasonable time**.
-**Size-ordered execution**: Smaller dataset pairs were processed first (memoryalpha–stexpanded, 506.7s), followed by progressively larger pairs, allowing results to be collected incrementally.
-**Automatic time limit**: 60 minutes time limit was enforced to prevent indefinite computation. The starwars–swtor task (1,066MB combined) **exceeded this limit** and **resulted in a timeout**.
-**Candidate limit**: A maximum of **500,000 candidates was set per task**. For the largest tasks, this **limit was reached** before all entity pairs could be evaluated, contributing to **near-zero recall**.
+**Scalability technique**: An **inverted index** was used to reduce brute-force candidate comparisons, enabling the system to process large knowledge graph ontologies within a **reasonable time**.<br/>
+
+**Size-ordered execution**: Smaller dataset pairs were processed first (memoryalpha–stexpanded, 506.7s), followed by progressively larger pairs, allowing results to be collected incrementally.<br/>
+
+**Automatic time limit**: 60 minutes time limit was enforced to prevent indefinite computation. The starwars–swtor task (1,066MB combined) **exceeded this limit** and **resulted in a timeout**.<br/>
+
+**Candidate limit**: A maximum of **500,000 candidates was set per task**. For the largest tasks, this **limit was reached** before all entity pairs could be evaluated, contributing to **near-zero recall**.<br/>
 
 Despite these strategies, instance-level matching remained challenging. The TP/FP/FN breakdown for memoryalpha–stexpanded (TP = 244, FP = 888, FN = 1,535) indicates that **the system generated a substantial number of false positive instance matches** while still **missing the majority of correct ones**.
 
