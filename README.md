@@ -43,7 +43,7 @@ The MLOA system successfully aligned the two Part 1 ontologies, producing 12 map
 Therefore, it confirms the alignment is semantically valid and supports bidirectional cross-ontology querying afterOWL 2 RL reasoning.
 
 Note: **The instance matching (owl:sameAs) was not possible**.<br/>
-- Although A_Ontology contains 99 named individuals, all are Dublin Core metadata terms (e.g. dc:creator, dc:title) which are unrealted to the animal domain. So there are no domain-level animal instances exist in A_Ontology to match against M_Ontology's 6 animal individuals (Tiger, GreyWolf, BaldEagle, Bonobo, Axolotl, GiantSquid).
+- Although A_Ontology contains 99 named individuals, all are Dublin Core metadata terms (e.g. dc:creator, dc:title) which are unrealted to the animal domain. Therefore, there are no domain-level animal instances exist in A_Ontology to match against M_Ontology's 6 animal individuals (Tiger, GreyWolf, BaldEagle, Bonobo, Axolotl, GiantSquid).
 #### OA.3 SPARAL Query results
 Two SPARQL queries were executed after applying OWL 2 RL reasoning using owlrl:
 
