@@ -48,19 +48,11 @@ Note: **The instance matching (owl:sameAs) was not possible**.<br/>
 Two SPARQL queries were executed after applying OWL 2 RL reasoning using owlrl:
 
 **Query 1 (owl:equivalentClass reasoning)**<br/>
-Used al:Animal to retrieve ml: instances. Without reasoning this the result will returns 0. After reasoing, 3 animal instances were returned (Tiger, GreyWolf, BaldEagle) that confirming equivalentClass inference works correctly.
+al:Animal was used to retrieve ml: instances. Without reasoning, the query returned 0 results. After reasoning was applied, 3 animal instances were returned (Tiger, GreyWolf, and BaldEagle), confirming that owl:equivalentClass inference works correctly.
 
-**Query 2 (owl:equivalentProperty reasoning)**
-Used al:hasDiet and al:hasConservationStatus (Astha's
-property vocabulary) to retrieve ml: instance data.
-The same 3 results were returned, confirming that
-equivalentProperty inference bridges the two
-ontologies' property vocabularies successfully.
+**Query 2 (owl:equivalentProperty reasoning)**<br/>
+al:hasDiet and al:hasConservationStatus were used to retrieve ml: instance data. The same 3 results were returned, confirming that owl:equivalentProperty inference successfully bridges the property vocabularies of the two ontologies.
 
-The remaining 3 instances (Bonobo, Axolotl, GiantSquid)
-did not appear because they lack complete property
-assertions in M_Ontology — SPARQL requires all triple
-patterns to be simultaneously satisfied.
-
+Note: The remaining 3 instances (Bonobo, Axolotl, and GiantSquid) did not appear because they lack complete property assertions in M_Ontology. **SPARQL requires all triple patterns** to be satisfied simultaneously.
 
 
