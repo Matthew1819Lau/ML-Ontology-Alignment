@@ -56,4 +56,19 @@ al:hasDiet and al:hasConservationStatus were used to retrieve ml: instance data.
 Note: The remaining 3 instances (Bonobo, Axolotl, and GiantSquid) did not appear because they lack complete property assertions in M_Ontology. **SPARQL requires all triple patterns** to be satisfied simultaneously.
 
 ### Discussion and Evaluation of MLOA System Results against OAEI Reference Alignments (Subtask OA.4)
+#### Conference Track (21/21 completed, Avg F=0.433, time 326.1s)
+The system achieved consistent performance across all 21 conference alignment tasks, with higher Recall (0.566) than Precision (0.370). This reflects the tendency of the Embedding + LLM pipeline to generate broader candidate sets, **capturing more correct mappings at the cost of introducing false positives**.
 
+The best-performing task was confOf-ekaw (F = 0.553), where the two ontologies shared substantial label overlap. The cmt-iasted task achieved perfect Recall (1.000) but low Precision (0.308), indicating that the system **over-matched due to the small size of the iasted ontology**.
+
+
+#### Digital Humanities Track (8/8 completed, Avg F=0.281, time 202.0s)
+Performance varied significantly depending on the language of the ontologies. Tasks involving non-English ontologies (French pactols, German idai, and Greek/Latin parthenos) produced F-scores ranging from 0.000 to 0.207, as the core components, **all-MiniLM-L6-v2 embeddings** and the **NVIDIA Nemotron LLM**, are optimised for English text.
+
+In contrast, English-language tasks performed substantially better: dha-unesco achieved an F-score of 0.727, while tadirah-unesco reached 0.609. These results indicate that a multilingual embedding model would be required to improve performance on non-English ontologies.
+
+#### Circular Economy Track (2/2 completed, Avg F=0.450, time 143.3s)
+The system achieved the highest Recall across all tracks (0.938), successfully identifying the vast majority of correct mappings. However, Precision was low (0.208), indicating a high rate of false positives. This is attributed to the substantial terminological overlap between CEON, BiOnto, and MATONTO in materials science and industrial processes, where the **embedding model captured broad semantic similarity between related but non-equivalent concepts**.
+
+#### Anatomy Track (1/1 completed, F=0.763, time 60.1s) — Best Result
+The Anatomy track produced the strongest results across all tracks (F = 0.763), with well-balanced Precision (0.787) and Recall (0.741). The human–mouse alignment task involved matching 3,304 human anatomy classes against 2,744 mouse anatomy classes which approximately 9 million potential pairwise comparisons even though it was completed in just 60.1 seconds. This efficiency is directly attributable to the **inverted index scalability technique**, which **significantly reduced the comparison space**. Standardised biomedical terminology consistent across species ontologies enabled reliable lexical and embedding-based matching.
