@@ -31,11 +31,36 @@ The system includes the following mappings:<br/>
 • owl:   sameAs (instance mappings)
 
 ### Discussion of the results from the MLOA system (Subtask OA.2 and Subtask OA.3)
+#### Backgorund
 The source ontoloy **M_Animal_Ontology_Part1** contains 24 classes, 5 object properties, 5 data properties and 11 individuals and <br/> 
 the target ontology **A_Animal_Ontology_Part1** includes 48 classes, 7 object properties, 18 data properties and 99 individuals.<br/> 
 Both ontologies are derived from same Animal Planet dataset mentioned in above.
+#### OA.2 alignment results
+The MLOA system successfully aligned the two Part 1 ontologies, producing 12 mappings (6 owl:equivalentClass mappings and 6 owl:equivalentProperty mappings) between M_Animal_Ontology_Part1 and A_Animal_Ontology_Part1. In addition, cross-ontology reasoning was verified in both directions through forward reasoning and reverse reasoning.
+- **Forward reasoning**: ml:Tiger (instance vocabulary) was successfully inferred as al:Animal through the mapping ml:Animal owl:equivalentClass al:Animal.
+- **Reverse reasoning**: al:hasDiet (property vocabulary) was successfully used to retrieve ml: instance data through the mapping ml:hasDiet owl:equivalentProperty al:hasDiet.
 
+Therefore, it confirms the alignment is semantically valid and supports bidirectional cross-ontology querying afterOWL 2 RL reasoning.
 
+Note: **The instance matching (owl:sameAs) was not possible**.<br/>
+- Although A_Ontology contains 99 named individuals, all are Dublin Core metadata terms (e.g. dc:creator, dc:title) which are unrealted to the animal domain. So there are no domain-level animal instances exist in A_Ontology to match against M_Ontology's 6 animal individuals (Tiger, GreyWolf, BaldEagle, Bonobo, Axolotl, GiantSquid).
+#### OA.3 SPARAL Query results
+Two SPARQL queries were executed after applying OWL 2 RL reasoning using owlrl:
+
+**Query 1 (owl:equivalentClass reasoning)**<br/>
+Used al:Animal to retrieve ml: instances. Without reasoning this the result will returns 0. After reasoing, 3 animal instances were returned (Tiger, GreyWolf, BaldEagle) that confirming equivalentClass inference works correctly.
+
+**Query 2 (owl:equivalentProperty reasoning)**
+Used al:hasDiet and al:hasConservationStatus (Astha's
+property vocabulary) to retrieve ml: instance data.
+The same 3 results were returned, confirming that
+equivalentProperty inference bridges the two
+ontologies' property vocabularies successfully.
+
+The remaining 3 instances (Bonobo, Axolotl, GiantSquid)
+did not appear because they lack complete property
+assertions in M_Ontology — SPARQL requires all triple
+patterns to be simultaneously satisfied.
 
 
 
