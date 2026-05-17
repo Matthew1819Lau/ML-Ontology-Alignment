@@ -30,7 +30,10 @@ The system includes the following mappings:<br/>
 • rdfs:  subPropertyOf (property mappings)<br/>
 • owl:   sameAs (instance mappings)
 
-
+### Discussion of the results from the MLOA system (Subtask OA.2 and Subtask OA.3)
+The source ontoloy **M_Animal_Ontology_Part1** contains 24 classes, 5 object properties, 5 data properties and 11 individuals and <br/> 
+the target ontology **A_Animal_Ontology_Part1** includes 48 classes, 7 object properties, 18 data properties and 99 individuals.<br/> 
+Both ontologies are derived from same Animal Planet dataset mentioned in above.
 
 
 
