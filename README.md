@@ -8,28 +8,22 @@ The daset inculdes the **Animal Planet** dataset from Kaggle (https://www.kaggle
 ### The MLOA implemented techniques and how to run the piepline (Subtask OA.1)
 The MLOA system combines five progressive matching techniques in a single pipeline. Each step builds upon the previous with later steps handling cases that earlier steps cannot resolve.<br/>
 
-Step 1: Lexical Matching (Basic techniques)<br/>
+Step 1: **Lexical Matching** (Basic techniques)<br/>
 - Extracts and normalises entity labels from both ontologies, then computes string similarity using dual thresholds (0.9 for classes, 0.8 for properties) to identify near-identical label matches.<br/>
 
-Step 2: Lexical and Structural Matching (Combined techniques)
+Step 2: **Lexical and Structural Matching** (Combined techniques)
 - Extends Step 1 by incorporating parent class hierarchy (rdfs:subClassOf) to reduce false positives caused by identical labels appearing in different semantic contexts.
 
-Step 3: Embedding Matching (Advanced techniques)
+Step 3: **Embedding Matching** (Advanced techniques)
 - Encodes entity labels into dense vectors using all-MiniLM-L6-v2 and accepts mappings with cosine similarity ≥ 0.85, capturing semantically equivalent entities with different surface forms.
 
-Step 4: LLM verfication (Advanced techniques)
+Step 4: **LLM verfication** (Advanced techniques)
 - Submits embedding candidates to NVIDIA Nemotron via OpenRouter API with a binary yes/no prompt, providing semantic judgment beyond surface level similarity.
 
-Step 5: Embedding + LLM Filtered (Final system)
+Step 5: **Embedding + LLM Filtered** (Final system)
 - Applies a secondary embedding filter (≥ 0.85) to all LLM-verified mappings, retaining only high-confidence results to reduce false positives from LLM over-confirmation.
 
-
-
-with several mathching techniques, such as<br/> 
-
-
-
-The sysem includes all the mapping in following ways:<br/>
+The system includes the following mappings:<br/> 
 • owl:   equivalentClass (class mappings)<br/>
 • rdfs:  subClassOf (class mappings)<br/>
 • owl:   equivalentProperty (property mappings)<br/>
